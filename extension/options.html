@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VoiceCast Settings</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --bg-card: #f8f9fa;
+      --text: #202124;
+      --text-muted: #5f6368;
+      --border: #dadce0;
+      --accent: #1a73e8;
+      --accent-bg: #e8f0fe;
+      --danger: #d93025;
+      --danger-bg: #fce8e6;
+      --radius: 8px;
+      --font: Google Sans, Roboto, Arial, sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #202124;
+        --bg-card: #303134;
+        --text: #e8eaed;
+        --text-muted: #9aa0a6;
+        --border: #5f6368;
+        --accent: #8ab4f8;
+        --accent-bg: #1e3a5f;
+        --danger: #f28b82;
+        --danger-bg: #3c1f1e;
+      }
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-width: 320px;
+      max-width: 480px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+
+    .logo img {
+      width: 32px;
+      height: 32px;
+      border-radius: 6px;
+    }
+
+    .logo-text {
+      font-size: 20px;
+      font-weight: 500;
+      color: var(--text);
+    }
+
+    .logo-version {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-left: 4px;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+
+    .card-title {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 12px;
+    }
+
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 14px;
+    }
+
+    .stat-row:last-child { border-bottom: none; }
+
+    .stat-label { color: var(--text-muted); }
+    .stat-value { color: var(--text); font-weight: 500; }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 16px;
+      border-radius: 4px;
+      border: none;
+      font-family: var(--font);
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+
+    .btn:hover { opacity: 0.85; }
+    .btn:active { opacity: 0.7; }
+
+    .btn-danger {
+      background: var(--danger-bg);
+      color: var(--danger);
+    }
+
+    .btn-primary {
+      background: var(--accent-bg);
+      color: var(--accent);
+    }
+
+    .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+
+    .toast {
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #303134;
+      color: #e8eaed;
+      padding: 10px 18px;
+      border-radius: 4px;
+      font-size: 13px;
+      opacity: 0;
+      transition: opacity 0.2s;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+
+    .toast.show { opacity: 1; }
+
+    .about-text {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .about-text a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .about-text a:hover { text-decoration: underline; }
+
+    #status { font-size: 13px; color: var(--text-muted); margin-top: 4px; height: 16px; }
+  </style>
+</head>
+<body>
+  <div class="logo">
+    <img src="assets/icons/icon48.png" alt="VoiceCast" />
+    <span class="logo-text">VoiceCast <span class="logo-version" id="version"></span></span>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Cache Status</div>
+    <div class="stat-row">
+      <span class="stat-label">Cached entries</span>
+      <span class="stat-value" id="stat-keys">—</span>
+    </div>
+    <div class="stat-row">
+      <span class="stat-label">Database age</span>
+      <span class="stat-value" id="stat-age">—</span>
+    </div>
+    <div class="stat-row">
+      <span class="stat-label">Refreshes in</span>
+      <span class="stat-value" id="stat-expires">—</span>
+    </div>
+    <div class="actions">
+      <button class="btn btn-danger" id="btn-clear">Clear Cache</button>
+      <button class="btn btn-primary" id="btn-refresh">Refresh Stats</button>
+    </div>
+    <div id="status"></div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">About</div>
+    <p class="about-text">
+      VoiceCast replaces Google's cast panel for animated shows and movies
+      with character art + voice actor photos, so you can see the real faces
+      behind animated voices.
+      <br /><br />
+      Works on desktop Chrome and Android Chrome 128+.
+      Does not work on Chrome for iOS (Apple does not support Chrome extensions on iOS).
+    </p>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="options.js"></script>
+</body>
+</html>

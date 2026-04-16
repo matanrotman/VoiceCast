@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "VoiceCast",
+  "version": "1.0.0",
+  "description": "See the faces behind animated voices. Replaces Google's cast panel with character art + voice actor photos.",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": ["*://www.google.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/search*"],
+      "js": ["content.js"],
+      "css": ["styles/panel.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none';"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["data/shows.json"],
+      "matches": ["*://www.google.com/*"]
+    }
+  ]
+}

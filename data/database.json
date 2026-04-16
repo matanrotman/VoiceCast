@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-16T00:00:00Z",
+  "shows": [
+    {
+      "title": "Shrek",
+      "tmdb_id": 808,
+      "tmdb_type": "movie",
+      "characters": [
+        {
+          "character_name": "Shrek",
+          "character_image": "data/images/shrek/shrek.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Mike Myers",
+          "voice_actor_tmdb_id": 7232,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/sctMoOsVPAmgXOOlVCkZ0PrGSdp.jpg"
+        },
+        {
+          "character_name": "Donkey",
+          "character_image": "data/images/shrek/donkey.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Eddie Murphy",
+          "voice_actor_tmdb_id": 776,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+        },
+        {
+          "character_name": "Princess Fiona",
+          "character_image": "data/images/shrek/fiona.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Cameron Diaz",
+          "voice_actor_tmdb_id": 6941,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/if8gJsDJPmqHOOhMFZTgins6sR.jpg"
+        },
+        {
+          "character_name": "Lord Farquaad",
+          "character_image": "data/images/shrek/farquaad.png",
+          "character_image_placeholder": false,
+          "voice_actor": "John Lithgow",
+          "voice_actor_tmdb_id": 1296,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/3gJRfGCNVFkboCGRdC9lBCVPqCi.jpg"
+        },
+        {
+          "character_name": "Gingy",
+          "character_image": "data/images/shrek/gingy.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Conrad Vernon",
+          "voice_actor_tmdb_id": 59410,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/zqWFMF2UEbMiYzKJWRrgXxdD9vx.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Toy Story",
+      "tmdb_id": 862,
+      "tmdb_type": "movie",
+      "characters": [
+        {
+          "character_name": "Woody",
+          "character_image": "data/images/toy-story/woody.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Tom Hanks",
+          "voice_actor_tmdb_id": 31,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+        },
+        {
+          "character_name": "Buzz Lightyear",
+          "character_image": "data/images/toy-story/buzz.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Tim Allen",
+          "voice_actor_tmdb_id": 1248,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/uVEFQvFMMsg4e6yb03xOfVsDz0o.jpg"
+        },
+        {
+          "character_name": "Rex",
+          "character_image": "data/images/toy-story/rex.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Wallace Shawn",
+          "voice_actor_tmdb_id": 4777,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/3TfzNDEfSGGBzDHKsemSHiqjEvo.jpg"
+        },
+        {
+          "character_name": "Mr. Potato Head",
+          "character_image": "data/images/toy-story/mr-potato-head.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Don Rickles",
+          "voice_actor_tmdb_id": 6477,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/qJ6w2PTe9DVQ7fCXDPfzc9lQJFT.jpg"
+        },
+        {
+          "character_name": "Hamm",
+          "character_image": "data/images/toy-story/hamm.png",
+          "character_image_placeholder": false,
+          "voice_actor": "John Ratzenberger",
+          "voice_actor_tmdb_id": 8574,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/lxDy0TXFN4fjkYsKzDEuWRNBkAc.jpg"
+        }
+      ]
+    },
+    {
+      "title": "The Simpsons",
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "characters": [
+        {
+          "character_name": "Homer Simpson",
+          "character_image": "data/images/the-simpsons/homer.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Dan Castellaneta",
+          "voice_actor_tmdb_id": 4165,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/gEFSaXYWDa2DjUtxcl9HPNMRFVB.jpg"
+        },
+        {
+          "character_name": "Marge Simpson",
+          "character_image": "data/images/the-simpsons/marge.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Julie Kavner",
+          "voice_actor_tmdb_id": 27762,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/nQLlMBpZPTbHiGTFjYMGrXAXIVA.jpg"
+        },
+        {
+          "character_name": "Bart Simpson",
+          "character_image": "data/images/the-simpsons/bart.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Nancy Cartwright",
+          "voice_actor_tmdb_id": 27763,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/f9hzMlkScBLpMIkWeSCvBn4t2EB.jpg"
+        },
+        {
+          "character_name": "Lisa Simpson",
+          "character_image": "data/images/the-simpsons/lisa.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Yeardley Smith",
+          "voice_actor_tmdb_id": 34835,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/7JiCo9kALyW5fRXRHYFtMcHOxol.jpg"
+        },
+        {
+          "character_name": "Montgomery Burns",
+          "character_image": "data/images/the-simpsons/burns.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Harry Shearer",
+          "voice_actor_tmdb_id": 7188,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/8OimUBBkSHVNHlVKfhEGaKZX4Gj.jpg"
+        }
+      ]
+    }
+  ]
+}

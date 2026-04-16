@@ -1,0 +1,36 @@
+{
+  "name": "voicecast",
+  "version": "1.0.0",
+  "description": "Chrome extension that shows voice actors behind animated characters",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "build": "node scripts/build.js",
+    "scrape": "node scripts/scraper.js"
+  },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "setupFilesAfterEnv": ["./tests/mocks/chrome.js"],
+    "testMatch": ["**/tests/**/*.test.js"],
+    "collectCoverageFrom": [
+      "extension/*.js",
+      "api/*.js",
+      "scripts/*.js",
+      "!**/node_modules/**"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "sharp": "^0.33.4"
+  },
+  "dependencies": {
+    "@upstash/ratelimit": "^1.2.1",
+    "@upstash/redis": "^1.31.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

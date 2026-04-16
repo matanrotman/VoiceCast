@@ -1,0 +1,118 @@
+name: Scrape Missing Shows
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch open missing-show issues
+        id: fetch-issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Fetch open issues with the missing-show label (max 5 per run)
+          gh issue list \
+            --label "missing-show" \
+            --state open \
+            --limit 5 \
+            --json number,title \
+            > /tmp/issues.json
+          echo "Issues to process:"
+          cat /tmp/issues.json
+
+      - name: Process each missing show
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          const issues = JSON.parse(fs.readFileSync('/tmp/issues.json', 'utf8'));
+          const lines = issues.map(i => i.number + '|' + i.title.replace('[Missing Show] ', '').trim());
+          fs.writeFileSync('/tmp/issue-list.txt', lines.join('\n'));
+          console.log('Will process:', lines.length, 'issues');
+          "
+
+          while IFS='|' read -r issue_number title; do
+            echo ""
+            echo "=== Processing issue #$issue_number: $title ==="
+
+            # Search TMDB for the title to get ID and type
+            SEARCH_RESULT=$(curl -s "https://api.themoviedb.org/3/search/movie?query=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$title'))")&api_key=$TMDB_API_KEY&language=en-US")
+            MOVIE_ID=$(echo "$SEARCH_RESULT" | node -e "
+              let d=''; process.stdin.on('data',c=>d+=c).on('end',()=>{
+                const r=JSON.parse(d).results||[];
+                const anim=r.find(x=>x.genre_ids&&x.genre_ids.includes(16));
+                console.log(anim?anim.id:'');
+              });
+            ")
+
+            if [ -n "$MOVIE_ID" ]; then
+              echo "Found as movie: TMDB ID $MOVIE_ID"
+              node --experimental-vm-modules scripts/scraper.js --title "$title" --tmdb-id "$MOVIE_ID" --type movie && {
+                gh issue comment "$issue_number" --body "✅ Successfully added to database as a movie (TMDB ID: $MOVIE_ID). Will be available in the next database update."
+                gh issue close "$issue_number" --comment "Closed: show added to database."
+              } || {
+                gh issue comment "$issue_number" --body "⚠️ Scraper ran but encountered an error. Adding label for manual review."
+                gh issue edit "$issue_number" --add-label "needs-manual-review"
+              }
+            else
+              # Try TV
+              TV_RESULT=$(curl -s "https://api.themoviedb.org/3/search/tv?query=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$title'))")&api_key=$TMDB_API_KEY&language=en-US")
+              TV_ID=$(echo "$TV_RESULT" | node -e "
+                let d=''; process.stdin.on('data',c=>d+=c).on('end',()=>{
+                  const r=JSON.parse(d).results||[];
+                  const anim=r.find(x=>x.genre_ids&&x.genre_ids.includes(16));
+                  console.log(anim?anim.id:'');
+                });
+              ")
+
+              if [ -n "$TV_ID" ]; then
+                echo "Found as TV: TMDB ID $TV_ID"
+                node --experimental-vm-modules scripts/scraper.js --title "$title" --tmdb-id "$TV_ID" --type tv && {
+                  gh issue comment "$issue_number" --body "✅ Successfully added to database as a TV show (TMDB ID: $TV_ID). Will be available in the next database update."
+                  gh issue close "$issue_number" --comment "Closed: show added to database."
+                } || {
+                  gh issue comment "$issue_number" --body "⚠️ Scraper ran but encountered an error. Adding label for manual review."
+                  gh issue edit "$issue_number" --add-label "needs-manual-review"
+                }
+              else
+                echo "Could not find '$title' as an animated show on TMDB"
+                gh issue comment "$issue_number" --body "❌ Could not find '$title' as an animated show on TMDB (genre 16). This may not be an animated title, or the title may need to be corrected. Adding label for manual review."
+                gh issue edit "$issue_number" --add-label "needs-manual-review"
+              fi
+            fi
+          done < /tmp/issue-list.txt
+
+      - name: Commit database changes
+        run: |
+          git config user.name "VoiceCast Bot"
+          git config user.email "voicecast-bot@users.noreply.github.com"
+          git add data/database.json data/images/ data/CREDITS.md
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "chore: add missing shows from issues [skip ci]"
+          git push

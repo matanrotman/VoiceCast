@@ -1,0 +1,272 @@
+/* VoiceCast Panel Styles
+ * Scoped under .voicecast-panel to avoid conflicts with Google's CSS.
+ * Uses CSS custom properties for light/dark mode.
+ */
+
+/* ---------------------------------------------------------------------------
+   Custom Properties — Light Mode
+--------------------------------------------------------------------------- */
+
+.voicecast-panel {
+  --vc-bg: #ffffff;
+  --vc-bg-card: #f8f9fa;
+  --vc-bg-card-hover: #f1f3f4;
+  --vc-text-primary: #202124;
+  --vc-text-secondary: #5f6368;
+  --vc-border: #dadce0;
+  --vc-badge-bg: #e8f0fe;
+  --vc-badge-text: #1a73e8;
+  --vc-divider: #e0e0e0;
+  --vc-placeholder-bg: #e8eaed;
+  --vc-placeholder-fg: #bdc1c6;
+  --vc-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  --vc-radius: 8px;
+  --vc-card-width: 120px;
+  --vc-char-img-size: 100px;
+  --vc-actor-img-size: 56px;
+  --vc-font: Google Sans, Roboto, Arial, sans-serif;
+
+  font-family: var(--vc-font);
+  background: var(--vc-bg);
+  border-radius: var(--vc-radius);
+  padding: 16px 0 8px;
+  margin: 4px 0;
+}
+
+/* ---------------------------------------------------------------------------
+   Dark Mode — prefers-color-scheme
+--------------------------------------------------------------------------- */
+
+@media (prefers-color-scheme: dark) {
+  .voicecast-panel {
+    --vc-bg: #303134;
+    --vc-bg-card: #3c4043;
+    --vc-bg-card-hover: #48494b;
+    --vc-text-primary: #e8eaed;
+    --vc-text-secondary: #9aa0a6;
+    --vc-border: #5f6368;
+    --vc-badge-bg: #1e3a5f;
+    --vc-badge-text: #8ab4f8;
+    --vc-divider: #5f6368;
+    --vc-placeholder-bg: #48494b;
+    --vc-placeholder-fg: #5f6368;
+  }
+}
+
+/* Google dark mode class override (Google sets this on <html>) */
+html[data-darkmode="true"] .voicecast-panel,
+html.dark .voicecast-panel {
+  --vc-bg: #303134;
+  --vc-bg-card: #3c4043;
+  --vc-bg-card-hover: #48494b;
+  --vc-text-primary: #e8eaed;
+  --vc-text-secondary: #9aa0a6;
+  --vc-border: #5f6368;
+  --vc-badge-bg: #1e3a5f;
+  --vc-badge-text: #8ab4f8;
+  --vc-divider: #5f6368;
+  --vc-placeholder-bg: #48494b;
+  --vc-placeholder-fg: #5f6368;
+}
+
+/* ---------------------------------------------------------------------------
+   Header
+--------------------------------------------------------------------------- */
+
+.voicecast-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 16px 12px;
+}
+
+.voicecast-title {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--vc-text-primary);
+  line-height: 1.4;
+}
+
+.voicecast-badge {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--vc-badge-text);
+  background: var(--vc-badge-bg);
+  padding: 2px 7px;
+  border-radius: 10px;
+  letter-spacing: 0.3px;
+}
+
+/* ---------------------------------------------------------------------------
+   Scrollable Card Row
+--------------------------------------------------------------------------- */
+
+.voicecast-scroller {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 0 16px 12px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+
+  /* Hide scrollbar on webkit (still scrollable) */
+  scrollbar-width: thin;
+  scrollbar-color: var(--vc-border) transparent;
+}
+
+.voicecast-scroller::-webkit-scrollbar {
+  height: 4px;
+}
+
+.voicecast-scroller::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.voicecast-scroller::-webkit-scrollbar-thumb {
+  background-color: var(--vc-border);
+  border-radius: 2px;
+}
+
+/* ---------------------------------------------------------------------------
+   Individual Card
+--------------------------------------------------------------------------- */
+
+.voicecast-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 var(--vc-card-width);
+  width: var(--vc-card-width);
+  background: var(--vc-bg-card);
+  border-radius: var(--vc-radius);
+  padding: 12px 8px 10px;
+  cursor: default;
+  transition: background 0.15s ease;
+  scroll-snap-align: start;
+  min-height: 200px;
+}
+
+.voicecast-card:hover {
+  background: var(--vc-bg-card-hover);
+}
+
+/* Touch target minimum 44px — card is wide enough already */
+@media (max-width: 600px) {
+  .voicecast-panel {
+    --vc-card-width: 104px;
+    --vc-char-img-size: 84px;
+    --vc-actor-img-size: 48px;
+  }
+
+  .voicecast-header {
+    padding: 0 12px 10px;
+  }
+
+  .voicecast-scroller {
+    padding: 0 12px 10px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Character Image
+--------------------------------------------------------------------------- */
+
+.voicecast-char-img-wrapper {
+  width: var(--vc-char-img-size);
+  height: var(--vc-char-img-size);
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--vc-placeholder-bg);
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.voicecast-char-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ---------------------------------------------------------------------------
+   Silhouette Placeholder
+--------------------------------------------------------------------------- */
+
+.voicecast-silhouette {
+  width: 100%;
+  height: 100%;
+}
+
+/* ---------------------------------------------------------------------------
+   Character Name
+--------------------------------------------------------------------------- */
+
+.voicecast-char-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--vc-text-primary);
+  text-align: center;
+  margin-top: 7px;
+  line-height: 1.3;
+  max-width: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+/* ---------------------------------------------------------------------------
+   Divider between character and actor
+--------------------------------------------------------------------------- */
+
+.voicecast-divider {
+  width: 28px;
+  height: 1px;
+  background: var(--vc-divider);
+  margin: 8px 0;
+  flex-shrink: 0;
+}
+
+/* ---------------------------------------------------------------------------
+   Voice Actor Photo
+--------------------------------------------------------------------------- */
+
+.voicecast-actor-img-wrapper {
+  width: var(--vc-actor-img-size);
+  height: var(--vc-actor-img-size);
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--vc-placeholder-bg);
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.voicecast-actor-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ---------------------------------------------------------------------------
+   Voice Actor Name
+--------------------------------------------------------------------------- */
+
+.voicecast-actor-name {
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--vc-text-secondary);
+  text-align: center;
+  margin-top: 5px;
+  line-height: 1.3;
+  max-width: 100%;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}

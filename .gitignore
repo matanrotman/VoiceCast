@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+*.DS_Store
+.vercel/
+coverage/
+*.log
+npm-debug.log*
+
+# Do NOT ignore data/images/ — character images must be committed
