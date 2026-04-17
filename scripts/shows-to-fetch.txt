@@ -1,0 +1,968 @@
+1. Toy Story
+2. A Bug's Life
+3. Toy Story 2
+4. Monsters Inc
+5. Finding Nemo
+6. The Incredibles
+7. Cars
+8. Ratatouille
+9. WALL-E
+10. Up
+11. Toy Story 3
+12. Brave
+13. Monsters University
+14. Inside Out
+15. The Good Dinosaur
+16. Finding Dory
+17. Cars 3
+18. Coco
+19. Incredibles 2
+20. Toy Story 4
+21. Onward
+22. Soul
+23. Luca
+24. Turning Red
+25. Lightyear
+26. Elemental
+27. Inside Out 2
+28. Snow White and the Seven Dwarfs
+29. Pinocchio
+30. Fantasia
+31. Dumbo
+32. Bambi
+33. Cinderella
+34. Alice in Wonderland
+35. Peter Pan
+36. Lady and the Tramp
+37. Sleeping Beauty
+38. 101 Dalmatians
+39. The Sword in the Stone
+40. The Jungle Book
+41. The Aristocats
+42. Robin Hood
+43. The Many Adventures of Winnie the Pooh
+44. The Rescuers
+45. The Fox and the Hound
+46. The Black Cauldron
+47. The Great Mouse Detective
+48. Oliver and Company
+49. The Little Mermaid
+50. The Rescuers Down Under
+51. Beauty and the Beast
+52. Aladdin
+53. The Lion King
+54. Pocahontas
+55. The Hunchback of Notre Dame
+56. Hercules
+57. Mulan
+58. Tarzan
+59. The Emperor's New Groove
+60. Atlantis The Lost Empire
+61. Lilo and Stitch
+62. Treasure Planet
+63. Brother Bear
+64. Home on the Range
+65. Chicken Little
+66. Meet the Robinsons
+67. Bolt
+68. The Princess and the Frog
+69. Tangled
+70. Winnie the Pooh
+71. Wreck-It Ralph
+72. Frozen
+73. Big Hero 6
+74. Zootopia
+75. Moana
+76. Ralph Breaks the Internet
+77. Frozen 2
+78. Raya and the Last Dragon
+79. Encanto
+80. Strange World
+81. Wish
+82. Moana 2
+83. Shrek
+84. Shrek 2
+85. Shrek the Third
+86. Shrek Forever After
+87. Antz
+88. The Prince of Egypt
+89. Chicken Run
+90. Road to El Dorado
+91. Spirit Stallion of the Cimarron
+92. Sinbad Legend of the Seven Seas
+93. Shark Tale
+94. Madagascar
+95. Over the Hedge
+96. Bee Movie
+97. Kung Fu Panda
+98. Madagascar Escape 2 Africa
+99. Monsters vs Aliens
+100. How to Train Your Dragon
+101. Megamind
+102. Kung Fu Panda 2
+103. Puss in Boots
+104. Madagascar 3 Europes Most Wanted
+105. Rise of the Guardians
+106. The Croods
+107. Turbo
+108. Mr Peabody and Sherman
+109. How to Train Your Dragon 2
+110. Home
+111. Penguins of Madagascar
+112. Kung Fu Panda 3
+113. Trolls
+114. The Boss Baby
+115. Captain Underpants
+116. How to Train Your Dragon The Hidden World
+117. Abominable
+118. Trolls World Tour
+119. The Croods A New Age
+120. The Boss Baby Family Business
+121. Puss in Boots The Last Wish
+122. The Bad Guys
+123. Kung Fu Panda 4
+124. Trolls Band Together
+125. Despicable Me
+126. Despicable Me 2
+127. The Lorax
+128. Despicable Me 3
+129. Minions
+130. The Secret Life of Pets
+131. Sing
+132. The Secret Life of Pets 2
+133. Minions The Rise of Gru
+134. Sing 2
+135. The Super Mario Bros Movie
+136. Migration
+137. Despicable Me 4
+138. Cloudy with a Chance of Meatballs
+139. Surf's Up
+140. Hotel Transylvania
+141. Open Season
+142. Planet 51
+143. Alpha and Omega
+144. Hotel Transylvania 2
+145. Storks
+146. Hotel Transylvania 3
+147. The Angry Birds Movie
+148. The Angry Birds Movie 2
+149. Spider-Man Into the Spider-Verse
+150. Spider-Man Across the Spider-Verse
+151. The Mitchells vs the Machines
+152. Cloudy with a Chance of Meatballs 2
+153. Wallace and Gromit Curse of the Were-Rabbit
+154. Flushed Away
+155. Arthur Christmas
+156. Shaun the Sheep Movie
+157. Early Man
+158. Shaun the Sheep Farmageddon
+159. Chicken Run Dawn of the Nugget
+160. Ernest and Celestine
+161. Triplets of Belleville
+162. The Illusionist
+163. Persepolis
+164. Waltz with Bashir
+165. April and the Extraordinary World
+166. A Monster in Paris
+167. Wolfwalkers
+168. The Breadwinner
+169. Song of the Sea
+170. Secret of Kells
+171. The Red Turtle
+172. Flee
+173. Nausicaa of the Valley of the Wind
+174. Castle in the Sky
+175. My Neighbor Totoro
+176. Grave of the Fireflies
+177. Kiki's Delivery Service
+178. Only Yesterday
+179. Porco Rosso
+180. Pom Poko
+181. Whisper of the Heart
+182. Princess Mononoke
+183. Spirited Away
+184. The Cat Returns
+185. Howl's Moving Castle
+186. Tales from Earthsea
+187. Ponyo
+188. The Secret World of Arrietty
+189. From Up on Poppy Hill
+190. The Wind Rises
+191. The Tale of the Princess Kaguya
+192. When Marnie Was There
+193. Mirai
+194. The Boy and the Heron
+195. Akira
+196. Ghost in the Shell
+197. A Silent Voice
+198. Your Name
+199. The Girl Who Leapt Through Time
+200. Wolf Children
+201. Summer Wars
+202. Weathering With You
+203. Belle
+204. Jujutsu Kaisen 0
+205. Demon Slayer Mugen Train
+206. One Piece Film Red
+207. Dragon Ball Super Broly
+208. My Hero Academia Heroes Rising
+209. Suzume
+210. The First Slam Dunk
+211. Inu-Oh
+212. Dragon Ball Z
+213. Naruto
+214. One Piece
+215. Bleach
+216. Attack on Titan
+217. Death Note
+218. Fullmetal Alchemist Brotherhood
+219. Sword Art Online
+220. My Hero Academia
+221. Demon Slayer
+222. Jujutsu Kaisen
+223. Hunter x Hunter
+224. Cowboy Bebop
+225. Trigun
+226. Inuyasha
+227. Yu Yu Hakusho
+228. Sailor Moon
+229. CardCaptor Sakura
+230. Ouran High School Host Club
+231. Fruits Basket
+232. Fairy Tail
+233. Naruto Shippuden
+234. Dragon Ball Super
+235. One Punch Man
+236. Mob Psycho 100
+237. Tokyo Ghoul
+238. Steins Gate
+239. Code Geass
+240. Gurren Lagann
+241. Rurouni Kenshin
+242. Haikyuu
+243. Your Lie in April
+244. Violet Evergarden
+245. Re Zero
+246. Konosuba
+247. That Time I Got Reincarnated as a Slime
+248. Overlord
+249. Black Clover
+250. Dr Stone
+251. Promised Neverland
+252. Vinland Saga
+253. Aggretsuko
+254. Devilman Crybaby
+255. Beastars
+256. Dorohedoro
+257. Neon Genesis Evangelion
+258. Fullmetal Alchemist
+259. Slam Dunk
+260. Food Wars
+261. Toradora
+262. Clannad
+263. Angel Beats
+264. Anohana
+265. Boruto
+266. Yu-Gi-Oh
+267. Pokemon
+268. Digimon
+269. Rising of the Shield Hero
+270. Goblin Slayer
+271. Made in Abyss
+272. Chainsaw Man
+273. Spy x Family
+274. Bocchi the Rock
+275. Blue Lock
+276. Frieren Beyond Journeys End
+277. Dungeon Meshi
+278. Solo Leveling
+279. Oshi no Ko
+280. The Flintstones
+281. The Jetsons
+282. Yogi Bear
+283. Top Cat
+284. Scooby-Doo Where Are You
+285. Looney Tunes
+286. Tom and Jerry
+287. Woody Woodpecker
+288. The Smurfs
+289. Wacky Races
+290. The Pink Panther
+291. Rocky and Bullwinkle
+292. Speed Racer
+293. Astro Boy
+294. Kimba the White Lion
+295. Battle of the Planets
+296. Popeye
+297. Mighty Mouse
+298. Casper the Friendly Ghost
+299. He-Man and the Masters of the Universe
+300. She-Ra Princess of Power
+301. Thundercats
+302. GI Joe
+303. Transformers
+304. Voltron
+305. Robotech
+306. SilverHawks
+307. BraveStarr
+308. Jem and the Holograms
+309. Dungeons and Dragons
+310. Teenage Mutant Ninja Turtles
+311. Batman The Animated Series
+312. Superman The Animated Series
+313. Justice League
+314. Justice League Unlimited
+315. X-Men The Animated Series
+316. Spider-Man The Animated Series
+317. Batman Beyond
+318. The Spectacular Spider-Man
+319. Wolverine and the X-Men
+320. X-Men Evolution
+321. Avengers Earths Mightiest Heroes
+322. Avengers Assemble
+323. Ultimate Spider-Man
+324. Hulk and the Agents of SMASH
+325. Iron Man Armored Adventures
+326. The Super Hero Squad Show
+327. Green Lantern The Animated Series
+328. Beware the Batman
+329. Young Justice
+330. DC Super Hero Girls
+331. Harley Quinn
+332. Batman The Brave and the Bold
+333. Static Shock
+334. Teen Titans
+335. Teen Titans Go
+336. Invincible
+337. What If Marvel
+338. Spidey and His Amazing Friends
+339. Moon Girl and Devil Dinosaur
+340. DuckTales
+341. Chip n Dale Rescue Rangers
+342. TaleSpin
+343. Darkwing Duck
+344. Goof Troop
+345. Aladdin The Series
+346. Timon and Pumbaa
+347. Buzz Lightyear of Star Command
+348. The Legend of Tarzan
+349. The Emperor's New School
+350. American Dragon Jake Long
+351. The Replacements
+353. Dave the Barbarian
+354. Lilo and Stitch The Series
+355. Kim Possible
+356. Phineas and Ferb
+357. Gravity Falls
+358. Wander Over Yonder
+359. Star vs the Forces of Evil
+360. Milo Murphy's Law
+361. Big City Greens
+362. Amphibia
+363. The Owl House
+364. Rugrats
+365. Doug
+366. Ren and Stimpy
+367. Rocko's Modern Life
+368. Aaahh Real Monsters
+369. Hey Arnold
+370. The Angry Beavers
+371. CatDog
+372. The Fairly OddParents
+373. Invader Zim
+374. The Adventures of Jimmy Neutron
+375. Danny Phantom
+376. My Life as a Teenage Robot
+377. As Told by Ginger
+378. Rocket Power
+379. SpongeBob SquarePants
+380. Dora the Explorer
+381. Go Diego Go
+382. The Loud House
+383. The Casagrandes
+384. Rugrats All Grown Up
+385. Avatar The Last Airbender
+386. The Legend of Korra
+387. Teenage Mutant Ninja Turtles 2012
+388. Rise of the Teenage Mutant Ninja Turtles
+389. The Patrick Star Show
+390. Dexter's Laboratory
+391. Johnny Bravo
+392. The Powerpuff Girls
+393. Courage the Cowardly Dog
+394. Ed Edd n Eddy
+395. Samurai Jack
+396. Foster's Home for Imaginary Friends
+397. The Marvelous Misadventures of Flapjack
+398. Chowder
+399. Regular Show
+400. Adventure Time
+401. The Amazing World of Gumball
+402. Steven Universe
+403. Uncle Grandpa
+404. Clarence
+405. We Bare Bears
+406. OK KO Lets Be Heroes
+407. Craig of the Creek
+408. Mao Mao Heroes of Pure Heart
+409. Ben 10
+410. Ben 10 Alien Force
+411. Ben 10 Ultimate Alien
+412. Ben 10 Omniverse
+413. Generator Rex
+414. The Secret Saturdays
+415. Sym-Bionic Titan
+416. Megas XLR
+417. Star Wars The Clone Wars
+418. Star Wars Rebels
+419. Infinity Train
+420. Over the Garden Wall
+421. Primal
+422. Scooby-Doo Mystery Incorporated
+423. The Simpsons
+424. Family Guy
+425. Futurama
+426. King of the Hill
+427. South Park
+428. Bob's Burgers
+429. Archer
+430. Rick and Morty
+431. BoJack Horseman
+432. Big Mouth
+433. Disenchantment
+434. F is for Family
+435. Tuca and Bertie
+436. Inside Job
+437. Final Space
+438. Solar Opposites
+439. Duncanville
+440. The Great North
+441. Close Enough
+442. Human Resources
+443. Beavis and Butt-Head
+444. Daria
+445. Aqua Teen Hunger Force
+446. Space Ghost Coast to Coast
+447. Harvey Birdman Attorney at Law
+448. Moral Orel
+449. Superjail
+450. Venture Bros
+451. Drawn Together
+452. Metalocalypse
+453. American Dad
+454. Clone High
+455. Ugly Americans
+456. Arcane
+457. Blood of Zeus
+458. Masters of the Universe Revelation
+459. She-Ra and the Princesses of Power
+460. Voltron Legendary Defender
+461. Carmen Sandiego
+462. Hilda
+463. Kipo and the Age of Wonderbeasts
+464. The Dragon Prince
+465. Dead End Paranormal Park
+466. The Midnight Gospel
+467. Centaurworld
+468. Twelve Forever
+469. Castlevania
+470. Castlevania Nocturne
+471. Skull Island
+472. Pacific Rim The Black
+473. Dota Dragon's Blood
+474. Yasuke
+475. Scott Pilgrim Takes Off
+476. Blue Eye Samurai
+477. Pluto
+478. Scavengers Reign
+479. Hazbin Hotel
+480. Helluva Boss
+481. Nimona
+482. Robot Dreams
+483. Orion and the Dark
+484. Leo
+485. The Witch Boy
+486. Bluey
+487. Peppa Pig
+488. Paw Patrol
+489. Blues Clues
+490. Clifford the Big Red Dog
+491. Arthur
+492. Recess
+493. The Wonder Pets
+494. Team Umizoomi
+495. Bubble Guppies
+496. Blaze and the Monster Machines
+497. Masha and the Bear
+498. The Octonauts
+499. Hey Duggee
+500. Bing
+501. Bob the Builder
+502. Thomas the Tank Engine
+503. Fireman Sam
+504. Postman Pat
+505. In the Night Garden
+506. Teletubbies
+507. Charlie and Lola
+508. Sarah and Duck
+509. Numberblocks
+510. Miraculous Ladybug
+511. Totally Spies
+512. Martin Mystery
+513. Oggy and the Cockroaches
+514. Danger Mouse
+515. Count Duckula
+516. The Animals of Farthing Wood
+517. Paddington Bear
+518. Superted
+519. Bananaman
+520. Dogtanian and the Three Muskehounds
+521. Around the World with Willy Fog
+522. The Mysterious Cities of Gold
+523. Ulysses 31
+524. Maya the Bee
+525. Heidi
+526. David the Gnome
+527. Vicky the Viking
+528. Asterix
+529. Lucky Luke
+530. Tintin
+531. Nu Pogodi
+532. Cheburashka
+533. Three from Prostokvashino
+534. Masha and the Bear
+535. Ron's Gone Wrong
+536. The Willoughbys
+537. Over the Moon
+538. Wish Dragon
+539. Vivo
+540. The Monkey King
+541. Flee
+542. My Little Pony A New Generation
+543. The Loud House Movie
+544. America The Motion Picture
+545. Arlo the Alligator Boy
+546. Star Wars The Bad Batch
+547. Star Wars Resistance
+548. Transformers Prime
+549. Transformers Animated
+550. Transformers Beast Wars
+551. GI Joe Renegades
+552. Thundercats 2011
+554. Star Wars Young Jedi Adventures
+555. LEGO Star Wars Terrifying Tales
+556. What If Marvel
+557. Moon Knight
+558. Ironheart
+559. Hamster and Gretel
+560. Kiff
+561. The Patrick Star Show
+562. Middlemost Post
+565. That Girl Lay Lay
+566. Big Nate
+567. The Snoopy Show
+568. Peanuts
+569. Garfield
+570. Heathcliff
+571. Alvin and the Chipmunks
+573. Strawberry Shortcake
+574. Care Bears
+575. My Little Pony Friendship is Magic
+576. My Little Pony Equestria Girls
+577. Transformers Rescue Bots
+578. Transformers Cyberverse
+579. Angry Birds Toons
+580. Angry Birds Summer Madness
+581. The Cuphead Show
+582. Sonic Prime
+583. Sonic the Hedgehog
+584. Pac-Man and the Ghostly Adventures
+585. Kirby Right Back at Ya
+586. Pokemon Journeys
+587. Pokemon Ultimate Journeys
+588. Pokemon Horizons
+589. Digimon Adventure
+590. Digimon Frontier
+591. Digimon Tamers
+592. Yu-Gi-Oh GX
+593. Yu-Gi-Oh 5Ds
+594. Yu-Gi-Oh Zexal
+595. Beyblade Metal Fusion
+596. Bakugan Battle Brawlers
+597. Inazuma Eleven
+598. Medabots
+599. Zoids
+600. Cardcaptor Sakura Clear Card
+601. Sailor Moon Crystal
+602. Fruits Basket 2019
+603. Berserk
+604. Hajime no Ippo
+605. Captain Tsubasa
+606. Kuroko no Basket
+607. Haikyuu To The Top
+608. Black Clover
+609. Tower of God
+610. God of High School
+611. Noblesse
+612. Hellbound
+613. Sweet Home
+614. Lookism
+615. Bastard Heavy Metal Dark Fantasy
+616. The Seven Deadly Sins
+617. Fairy Tail Final Season
+618. Sword Art Online Alicization
+619. Re Zero Season 2
+620. That Time I Got Reincarnated as a Slime Season 2
+621. Mushoku Tensei
+622. Jobless Reincarnation
+623. The Rising of the Shield Hero Season 2
+627. Demon Slayer Entertainment District
+628. Demon Slayer Swordsmith Village
+629. Attack on Titan Final Season Part 2
+632. Spy x Family Season 2
+634. Frieren Beyond Journeys End
+635. Dungeon Meshi
+636. Solo Leveling
+638. Wind Breaker
+639. Kaiju No 8
+640. Shangri-La Frontier
+641. The Apothecary Diaries
+642. A Sign of Affection
+643. Metallic Rouge
+644. Delicious in Dungeon
+645. Brave Bang Bravern
+646. Bucchigiri
+647. Mashle Magic and Muscles
+648. Undead Unluck
+649. The Witch and the Beast
+650. Momentary Lily
+651. Sengoku Youko
+652. Villainess Level 99
+653. Hokkaido Gals Are Super Adorable
+654. Classroom of the Elite Season 3
+655. My Deer Friend Nokotan
+656. Wistoria Wand and Sword
+657. Oshi no Ko
+658. Zom 100 Bucket List of the Dead
+659. Mononoke The Movie Karakasa
+660. Suicide Squad Isekai
+661. Terminator Zero
+662. Ranma One Half 2024
+663. Dandadan
+664. Dragon Ball Daima
+670. Demon Slayer Hashira Training
+671. Jujutsu Kaisen Culling Game
+672. Chainsaw Man Part 2
+673. Spy x Family Code White
+674. Haikyuu The Dumpster Battle
+675. Blue Lock Episode Nagi
+676. Attack on Titan The Final Chapters
+679. Re Zero Season 3
+680. That Time I Got Reincarnated as a Slime Season 3
+682. Black Clover Sword of the Wizard King
+683. Dr Stone New World
+687. Ghost in the Shell SAC 2045
+688. Lupin III Part 6
+689. Space Cobra
+690. Captain Harlock
+691. Galaxy Express 999
+692. Macross
+694. Bubblegum Crisis
+695. Dirty Pair
+696. Urusei Yatsura
+697. Urusei Yatsura 2022
+699. Maison Ikkoku
+700. Rumiko Takahashi Anthology
+701. Hamtaro
+702. Ojamajo Doremi
+703. Tokyo Mew Mew
+704. Tokyo Mew Mew New
+705. Shugo Chara
+706. Glitter Force
+707. Pretty Cure
+708. Heartcatch Pretty Cure
+709. Suite Pretty Cure
+710. Smile Pretty Cure
+711. Go Princess Pretty Cure
+712. Hugtto Pretty Cure
+713. Healin Good Pretty Cure
+714. Tropical Rouge Pretty Cure
+715. Delicious Party Pretty Cure
+716. Hirogaru Sky Pretty Cure
+717. Wonderful Precure
+718. Saint Seiya
+719. Saint Seiya Knights of the Zodiac
+720. Baki
+721. Baki Hanma
+772. Kengan Ashura
+723. Record of Ragnarok
+724. Drifters
+725. Hellsing Ultimate
+726. Trigun Stampede
+728. Vampire Hunter D
+729. Wicked City
+730. Ninja Scroll
+731. Perfect Blue
+732. Paprika
+733. Tokyo Godfathers
+734. Millennium Actress
+736. Redline
+737. Tekkonkinkreet
+738. Mind Game
+739. Cat Soup
+740. Dead Leaves
+741. FLCL
+742. FLCL Progressive
+743. FLCL Alternative
+744. Panty and Stocking with Garterbelt
+745. Kill la Kill
+746. Little Witch Academia
+747. Darling in the FranXX
+748. Promare
+749. BNA Brand New Animal
+750. Sk8 the Infinity
+751. Yuri on Ice
+752. Free Iwatobi Swim Club
+753. Kuroko no Basket
+754. Haikyuu
+755. Prince of Stride
+756. Run with the Wind
+757. Tsurune
+758. Stars Align
+759. Hanebado
+760. Baby Steps
+761. Ping Pong The Animation
+762. Hajime no Ippo New Challenger
+763. Hinomaru Sumo
+764. Burning Kabaddi
+765. Battery
+766. Ahiru no Sora
+767. I Give My First Love to You
+768. Toradora
+769. Clannad After Story
+770. Kanon
+771. Air
+772. Little Busters
+773. Planetarian
+774. Charlotte
+775. Anohana
+776. Your Lie in April
+777. March Comes in Like a Lion
+778. Natsume Yuujinchou
+779. Mushishi
+780. Spice and Wolf
+781. Spice and Wolf Merchant Meets the Wise Wolf
+782. The Ancient Magus Bride
+783. Kino's Journey
+784. Haibane Renmei
+785. Serial Experiments Lain
+786. Ergo Proxy
+787. Texhnolyze
+788. Paranoia Agent
+789. Boogiepop and Others
+790. The Tatami Galaxy
+791. Ping Pong The Animation
+792. Mononoke
+793. Shigurui
+794. Dororo
+795. Golden Kamuy
+796. Vinland Saga
+797. Angolmois
+798. The Heroic Legend of Arslan
+799. Kingdom
+800. Legend of the Galactic Heroes
+802. Eureka Seven
+803. Rahxephon
+804. Blue Submarine No 6
+805. Voices of a Distant Star
+806. The Place Promised in Our Early Days
+807. 5 Centimeters Per Second
+808. Children Who Chase Lost Voices
+809. Garden of Words
+810. Colorful
+811. Mai Mai Miracle
+812. Oblivion Island
+813. Expelled from Paradise
+814. Hal
+815. Patema Inverted
+816. The anthem of the Heart
+817. The shape of Voice
+818. I Want to Eat Your Pancreas
+819. Liz and the Blue Bird
+820. Maquia When the Promised Flower Blooms
+821. Mary and the Witch's Flower
+822. Okko's Inn
+823. Modest Heroes
+824. Lu Over the Wall
+825. Night is Short Walk on Girl
+826. Ride Your Wave
+827. Penguin Highway
+828. Flavor of Youth
+829. Drifting Home
+830. Isekai Quartet
+831. Cautious Hero
+832. Didn't I Say to Make My Abilities Average
+833. Ascendance of a Bookworm
+834. By the Grace of the Gods
+835. So I'm a Spider So What
+836. The World's Finest Assassin
+837. Skeleton Knight in Another World
+838. I'm Quitting Heroing
+839. The Eminence in Shadow
+840. The Reincarnation of the Strongest Exorcist
+841. Reborn as a Vending Machine
+842. I Was Reincarnated as the 7th Prince
+843. Chillin in Another World with Level 2 Super Cheat Powers
+844. In Another World with My Smartphone
+845. Tsuki ga Michibiku Isekai Douchuu
+846. Arifureta
+847. Wise Man's Grandchild
+848. The Master of Ragnarok
+849. How Not to Summon a Demon Lord
+850. High School DxD
+851. Is It Wrong to Try to Pick Up Girls in a Dungeon
+852. No Game No Life
+853. Sword Art Online Progressive
+854. Log Horizon
+855. Accel World
+856. Infinite Stratos
+857. Date A Live
+858. The Asterisk War
+859. Chivalry of a Failed Knight
+860. Demon King Daimao
+861. Trinity Seven
+862. Aesthetica of a Rogue Hero
+863. Haganai
+864. Oregairu
+865. Monogatari Series
+866. Bakemonogatari
+867. Nisemonogatari
+868. Nekomonogatari
+869. Owarimonogatari
+870. Zoku Owarimonogatari
+871. Kizumonogatari
+872. Tsukimonogatari
+873. Hanamonogatari
+875. Lucky Star
+876. The Melancholy of Haruhi Suzumiya
+877. K-On
+878. Nichijou
+879. Azumanga Daioh
+880. Yotsuba
+881. Yuru Camp
+882. Non Non Biyori
+883. Laid Back Camp
+884. Flying Witch
+885. Aria The Animation
+886. Hidamari Sketch
+887. Tamako Market
+888. Hyouka
+889. A Place Further Than the Universe
+890. Ano Hi Mita Hana
+891. Kokoro Connect
+892. Glasslip
+893. Nagi-Asu A Lull in the Sea
+894. True Tears
+895. Hanasaku Iroha
+896. Tari Tari
+897. Shirobako
+898. Sakura Quest
+899. Iroduku The World in Colors
+900. Violet Evergarden Movie
+901. A Silent Voice
+902. Your Name
+903. Weathering With You
+904. Belle
+905. Bubble
+906. Pompo The Cinephile
+907. Words Bubble Up Like Soda Pop
+908. The Colors Within
+909. Lonely Castle in the Mirror
+910. The Ice Guy and His Cool Female Colleague
+911. My Happy Marriage
+912. Yuzuki-san Chi no Yonkyoudai
+913. Skip and Loafer
+914. Komi Cant Communicate
+915. Wotakoi Love is Hard for Otaku
+916. My Love Story
+917. Toradora
+918. Lovely Complex
+919. Say I Love You
+920. Ao Haru Ride
+921. Sukitte Ii na yo
+922. Nana
+923. Kaguya-sama Love is War
+924. Rent a Girlfriend
+925. My Dress-Up Darling
+926. Spy x Family
+927. Horimiya
+928. The Duke of Death and His Maid
+929. Tonikawa Over the Moon for You
+930. Aharen-san wa Hakarenai
+931. Teasing Master Takagi-san
+932. Nagatoro
+933. Uzaki-chan Wants to Hang Out
+934. Girlfriend Girlfriend
+935. Shikimori's Not Just a Cutie
+936. Love After World Domination
+937. Couple of Cuckoos
+938. Trapped in a Dating Sim
+939. The Angel Next Door Spoils Me Rotten
+940. Endo and Kobayashi Live
+941. The Dangers in My Heart
+942. A Galaxy Next Door
+943. Oshi no Ko
+944. Konosuba An Explosion on This Wonderful World
+945. Yohane the Parhelion
+946. The Idolmaster
+947. Love Live School Idol Project
+948. Love Live Sunshine
+949. Love Live Superstar
+950. BanG Dream
+951. D4DJ
+952. Revue Starlight
+953. Zombie Land Saga
+954. Zombie Land Saga Revenge
+955. Shonen Hollywood
+956. Ensemble Stars
+957. Hypnosis Mic
+958. SK8 the Infinity
+959. Yuri on Ice
+960. Given
+961. Stars Align
+962. Banana Fish
+963. No 6
+964. Doukyuusei
+965. Classmates
+966. Blue Period
+967. Mashle
+968. Spy x Family Code White
+969. Haikyuu The Dumpster Battle
+970. Dragon Ball Daima
+971. Bleach Thousand Year Blood War
+975. Demon Slayer Infinity Castle
+977. Chainsaw Man Part 2
+978. Dandadan
+979. Ranma One Half 2024
+980. Frieren Beyond Journeys End
+981. Dungeon Meshi
+982. Solo Leveling
+983. Kaiju No 8
+984. Wind Breaker
+985. Shangri-La Frontier
+986. The Apothecary Diaries
+987. Metallic Rouge
+988. Brave Bang Bravern
+989. Sengoku Youko
+990. Zom 100 Bucket List of the Dead
+991. Suicide Squad Isekai
+992. Terminator Zero
+993. Scott Pilgrim Takes Off
+994. Blue Eye Samurai
+995. Scavengers Reign
+996. Pluto
+998. Hazbin Hotel
+999. Helluva Boss
+1000. The PenguinBrandy and Mr. Whiskers
+Masters of the Universe He-Man
+Rugrats Reboot
