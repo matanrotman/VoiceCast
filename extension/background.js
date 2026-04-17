@@ -7,15 +7,15 @@
  */
 
 // Replace with your deployed Vercel URL before shipping
-const VERCEL_URL = 'https://voicecast.vercel.app';
+const VERCEL_URL = 'https://voice-cast-eight.vercel.app';
 
 // GitHub raw URL for Layer 2 database
 const LAYER2_URL =
-  'https://raw.githubusercontent.com/YOUR_USERNAME/VoiceCast/main/data/database.json';
+  'https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/database.json';
 
 // GitHub repo root for resolving character image paths
 const GITHUB_RAW_ROOT =
-  'https://raw.githubusercontent.com/YOUR_USERNAME/VoiceCast/main/';
+  'https://raw.githubusercontent.com/matanrotman/VoiceCast/main';
 
 const CACHE_TTL_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
 
