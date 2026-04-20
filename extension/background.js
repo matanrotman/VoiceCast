@@ -176,13 +176,12 @@ function normalizeTitle(title) {
 
 function resolveImageUrls(show) {
   const characters = show.characters.map((char) => {
-    if (char.character_image_placeholder || !char.character_image) {
+    // No image (placeholder or empty) → null, content script shows silhouette
+    if (!char.character_image || char.character_image_placeholder) {
       return { ...char, character_image_url: null };
     }
-    return {
-      ...char,
-      character_image_url: GITHUB_RAW_ROOT + char.character_image,
-    };
+    // All images are stored as full GitHub raw URLs
+    return { ...char, character_image_url: char.character_image };
   });
   return { ...show, characters };
 }

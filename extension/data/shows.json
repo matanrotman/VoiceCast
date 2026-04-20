@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-16T00:00:00Z",
+  "updated_at": "2026-04-16T12:00:00Z",
   "shows": [
     {
       "title": "Shrek",
@@ -9,43 +9,43 @@
       "characters": [
         {
           "character_name": "Shrek",
-          "character_image": "data/images/shrek/shrek.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/shrek/shrek.png",
           "character_image_placeholder": false,
           "voice_actor": "Mike Myers",
-          "voice_actor_tmdb_id": 7232,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/sctMoOsVPAmgXOOlVCkZ0PrGSdp.jpg"
+          "voice_actor_tmdb_id": 12073,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
         },
         {
           "character_name": "Donkey",
-          "character_image": "data/images/shrek/donkey.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/shrek/donkey.png",
           "character_image_placeholder": false,
           "voice_actor": "Eddie Murphy",
           "voice_actor_tmdb_id": 776,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
         },
         {
           "character_name": "Princess Fiona",
-          "character_image": "data/images/shrek/fiona.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/shrek/princess-fiona.png",
           "character_image_placeholder": false,
           "voice_actor": "Cameron Diaz",
           "voice_actor_tmdb_id": 6941,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/if8gJsDJPmqHOOhMFZTgins6sR.jpg"
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
         },
         {
           "character_name": "Lord Farquaad",
-          "character_image": "data/images/shrek/farquaad.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/shrek/lord-farquaad.png",
           "character_image_placeholder": false,
           "voice_actor": "John Lithgow",
-          "voice_actor_tmdb_id": 1296,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/3gJRfGCNVFkboCGRdC9lBCVPqCi.jpg"
+          "voice_actor_tmdb_id": 12074,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
         },
         {
-          "character_name": "Gingy",
-          "character_image": "data/images/shrek/gingy.png",
+          "character_name": "Gingerbread Man",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/shrek/gingerbread-man.png",
           "character_image_placeholder": false,
           "voice_actor": "Conrad Vernon",
-          "voice_actor_tmdb_id": 59410,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/zqWFMF2UEbMiYzKJWRrgXxdD9vx.jpg"
+          "voice_actor_tmdb_id": 12080,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/2fhutx4eTBE6UR3eIRfYozKsUjk.jpg"
         }
       ]
     },
@@ -56,43 +56,51 @@
       "characters": [
         {
           "character_name": "Woody",
-          "character_image": "data/images/toy-story/woody.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/woody.png",
           "character_image_placeholder": false,
           "voice_actor": "Tom Hanks",
           "voice_actor_tmdb_id": 31,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
         },
         {
           "character_name": "Buzz Lightyear",
-          "character_image": "data/images/toy-story/buzz.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/buzz-lightyear.png",
           "character_image_placeholder": false,
           "voice_actor": "Tim Allen",
-          "voice_actor_tmdb_id": 1248,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/uVEFQvFMMsg4e6yb03xOfVsDz0o.jpg"
-        },
-        {
-          "character_name": "Rex",
-          "character_image": "data/images/toy-story/rex.png",
-          "character_image_placeholder": false,
-          "voice_actor": "Wallace Shawn",
-          "voice_actor_tmdb_id": 4777,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/3TfzNDEfSGGBzDHKsemSHiqjEvo.jpg"
+          "voice_actor_tmdb_id": 12898,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
         },
         {
           "character_name": "Mr. Potato Head",
-          "character_image": "data/images/toy-story/mr-potato-head.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/mr-potato-head.png",
           "character_image_placeholder": false,
           "voice_actor": "Don Rickles",
-          "voice_actor_tmdb_id": 6477,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/qJ6w2PTe9DVQ7fCXDPfzc9lQJFT.jpg"
+          "voice_actor_tmdb_id": 7167,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+        },
+        {
+          "character_name": "Slinky Dog",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/slinky-dog.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Jim Varney",
+          "voice_actor_tmdb_id": 12899,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+        },
+        {
+          "character_name": "Rex",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/rex.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Wallace Shawn",
+          "voice_actor_tmdb_id": 12900,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
         },
         {
           "character_name": "Hamm",
-          "character_image": "data/images/toy-story/hamm.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/toy-story/hamm.png",
           "character_image_placeholder": false,
           "voice_actor": "John Ratzenberger",
-          "voice_actor_tmdb_id": 8574,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/lxDy0TXFN4fjkYsKzDEuWRNBkAc.jpg"
+          "voice_actor_tmdb_id": 7907,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
         }
       ]
     },
@@ -103,43 +111,51 @@
       "characters": [
         {
           "character_name": "Homer Simpson",
-          "character_image": "data/images/the-simpsons/homer.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/homer-simpson.png",
           "character_image_placeholder": false,
           "voice_actor": "Dan Castellaneta",
-          "voice_actor_tmdb_id": 4165,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/gEFSaXYWDa2DjUtxcl9HPNMRFVB.jpg"
+          "voice_actor_tmdb_id": 198,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
         },
         {
           "character_name": "Marge Simpson",
-          "character_image": "data/images/the-simpsons/marge.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/marge-simpson.png",
           "character_image_placeholder": false,
           "voice_actor": "Julie Kavner",
-          "voice_actor_tmdb_id": 27762,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/nQLlMBpZPTbHiGTFjYMGrXAXIVA.jpg"
+          "voice_actor_tmdb_id": 199,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
         },
         {
           "character_name": "Bart Simpson",
-          "character_image": "data/images/the-simpsons/bart.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/bart-simpson.png",
           "character_image_placeholder": false,
           "voice_actor": "Nancy Cartwright",
-          "voice_actor_tmdb_id": 27763,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/f9hzMlkScBLpMIkWeSCvBn4t2EB.jpg"
+          "voice_actor_tmdb_id": 200,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
         },
         {
           "character_name": "Lisa Simpson",
-          "character_image": "data/images/the-simpsons/lisa.png",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/lisa-simpson.png",
           "character_image_placeholder": false,
           "voice_actor": "Yeardley Smith",
-          "voice_actor_tmdb_id": 34835,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/7JiCo9kALyW5fRXRHYFtMcHOxol.jpg"
+          "voice_actor_tmdb_id": 5586,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
         },
         {
-          "character_name": "Montgomery Burns",
-          "character_image": "data/images/the-simpsons/burns.png",
+          "character_name": "Moe Szyslak",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/moe-szyslak.png",
+          "character_image_placeholder": false,
+          "voice_actor": "Hank Azaria",
+          "voice_actor_tmdb_id": 5587,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg"
+        },
+        {
+          "character_name": "Mr. Burns",
+          "character_image": "https://raw.githubusercontent.com/matanrotman/VoiceCast/main/data/images/the-simpsons/mr-burns.png",
           "character_image_placeholder": false,
           "voice_actor": "Harry Shearer",
-          "voice_actor_tmdb_id": 7188,
-          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/8OimUBBkSHVNHlVKfhEGaKZX4Gj.jpg"
+          "voice_actor_tmdb_id": 6008,
+          "voice_actor_photo": "https://image.tmdb.org/t/p/w200/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
         }
       ]
     }

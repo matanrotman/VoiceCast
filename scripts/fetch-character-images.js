@@ -144,39 +144,64 @@ function downloadImage(url, destPath) {
  * Returns an image URL string or null.
  */
 async function fetchFandomImageUrl(wikiSlug, characterName) {
-  const pageTitle = characterName.replace(/ /g, '_');
-  const apiUrl = `https://${wikiSlug}.fandom.com/api.php?action=query&titles=${encodeURIComponent(pageTitle)}&prop=pageimages&format=json&pithumbsize=300`;
+  async function queryPage(title) {
+    const apiUrl = `https://${wikiSlug}.fandom.com/api.php?action=query&titles=${encodeURIComponent(title)}&prop=pageimages|revisions&rvprop=content&format=json&pithumbsize=300&redirects=1`;
 
-  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
-    try {
-      const response = await fetch(apiUrl, {
-        headers: {
-          'User-Agent': 'VoiceCast/1.0 (https://github.com/matanrotman/VoiceCast)'
-        },
-        signal: AbortSignal.timeout(10000)
-      });
+    for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+      try {
+        const response = await fetch(apiUrl, {
+          headers: {
+            'User-Agent': 'VoiceCast/1.0 (https://github.com/matanrotman/VoiceCast)'
+          },
+          signal: AbortSignal.timeout(10000)
+        });
 
-      if (response.status === 429) {
-        console.log('\n  ⏳ Rate limited by Fandom — waiting 30s...');
-        await sleep(30000);
-        continue;
+        if (response.status === 429) {
+          process.stdout.write('\n  ⏳ Rate limited by Fandom — waiting 30s...');
+          await sleep(30000);
+          continue;
+        }
+
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+        const data = await response.json();
+        const pages = data?.query?.pages || {};
+        const page = Object.values(pages)[0];
+
+        if (!page || page.missing !== undefined) return null;
+
+        // Try pageimages thumbnail first
+        if (page.thumbnail?.source) return page.thumbnail.source;
+
+        // Fall back to parsing wikitext for first File: reference
+        const content = page?.revisions?.[0]?.['*'] || '';
+        const match = content.match(/\[\[File:([^\]|]+)/i);
+        if (match) {
+          // Convert filename to Fandom image URL
+          const fileName = match[1].trim().replace(/ /g, '_');
+          const imageInfoUrl = `https://${wikiSlug}.fandom.com/api.php?action=query&titles=File:${encodeURIComponent(fileName)}&prop=imageinfo&iiprop=url&format=json`;
+          const imgRes = await fetch(imageInfoUrl, {
+            headers: { 'User-Agent': 'VoiceCast/1.0' },
+            signal: AbortSignal.timeout(10000)
+          });
+          const imgData = await imgRes.json();
+          const imgPages = imgData?.query?.pages || {};
+          const imgPage = Object.values(imgPages)[0];
+          return imgPage?.imageinfo?.[0]?.url || null;
+        }
+
+        return null;
+
+      } catch (err) {
+        if (attempt === MAX_RETRIES) return null;
+        await sleep(RETRY_DELAY_MS);
       }
-
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-
-      const data = await response.json();
-      const pages = data?.query?.pages || {};
-      const page = Object.values(pages)[0];
-
-      if (!page || page.missing !== undefined) return null;
-      return page.thumbnail?.source || null;
-
-    } catch (err) {
-      if (attempt === MAX_RETRIES) return null;
-      await sleep(RETRY_DELAY_MS);
     }
+    return null;
   }
-  return null;
+
+  const pageTitle = characterName.replace(/ /g, '_');
+  return await queryPage(pageTitle);
 }
 
 /**
@@ -240,17 +265,18 @@ async function main() {
     printProgress(si, shows.length, show.title);
 
     // Only process top N characters per show to keep scope manageable
-    const characters = (show.cast || []).slice(0, MAX_CHARACTERS_PER_SHOW);
+    const characters = (show.characters || []).slice(0, MAX_CHARACTERS_PER_SHOW);
     let showFound = 0;
     let showMissed = 0;
 
-    for (const character of characters) {
+for (const character of characters) {
       // Skip if already has a character image
       if (character.character_image) {
         totalSkipped++;
         continue;
       }
 
+      process.stdout.write(`\n  🔍 ${show.title} — ${character.character_name}`);
       await sleep(DELAY_BETWEEN_REQUESTS_MS);
 
       try {

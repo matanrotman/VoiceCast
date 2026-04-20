@@ -1,0 +1,3389 @@
+
+🎬 VoiceCast Database Builder
+📺 Processing 942 show(s)
+
+
+[1/942]
+
+📺 Shrek
+   TMDB: 808 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ shrek/Shrek_(film) (57 links)
+   👥 Fandom cast: 21 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ✅ Shrek
+      ✅ Donkey
+      ✅ Princess Fiona
+      ✅ Lord Farquaad
+      ✅ Monsieur Hood
+      ✅ Ogre Hunters
+      ✅ Captain of Guards
+      ✅ Baby Bear
+      ✅ Geppetto
+      ✅ Three Pigs
+      ✅ Old Woman
+      ✅ Peter Pan
+      ✅ Blind Mice
+      ✅ Thelonious
+      ✅ Gingerbread Man
+      ✅ Wrestling Fan
+      ✅ Merry Men
+      ✅ Bishop
+      ✅ Ogre Hunter
+      ✅ Big Bad Wolf
+      ✅ Dragon
+   📊 Images: 21 found, 6 missed
+[2/942]
+
+📺 Toy Story
+   TMDB: 862 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ toystory/Toy_Story (43 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 37
+   🎨 Fetching character images...
+      ✅ Woody
+      ✅ Buzz Lightyear
+      ✅ Mr. Potato Head
+      ✅ Slinky Dog
+      ✅ Rex
+      ✅ Hamm
+      ✅ Bo Peep
+      ✅ Andy
+      ✅ Sid Phillips
+      ✅ Sarge
+      ✅ Hannah Phillips
+      ✅ Andy's Mom
+      ✅ Lenny
+      ✅ Aliens
+      ✅ Rocky Gibraltar
+      ✅ TV Announcer
+      ✅ Pizza Planet announcer
+   📊 Images: 17 found, 20 missed
+[3/942]
+
+📺 The Simpsons
+   TMDB: 456 (tv)
+   📡 Fetching TMDB credits... 910 actor photos
+   📖 Finding Fandom wiki... ✅ the-simpsons/The_Simpsons (129 links)
+   👥 Fandom cast: 23 characters
+   👥 Total characters: 985
+   🎨 Fetching character images...
+      ✅ Dan Castellaneta
+      ✅ Milhouse Van Houten
+      ✅ Agnes Skinner
+      ✅ Maude Flanders
+      ✅ Martin Prince
+      ✅ Sideshow Bob
+      ✅ Edna Krabappel
+      ✅ Fat Tony
+      ✅ Artie Ziff
+      ✅ Constance Harm
+      ✅ Sarah Wiggum
+      ✅ Hubert Wong
+      ✅ Kumiko Albertson
+      ✅ Julius Hibbert
+      ✅ Carl Carlson
+      ✅ Bernice Hibbert
+      ✅ Janey Powell
+      ✅ Rayshelle Peyton
+      ✅ Drederick Tatum
+      ✅ Rod Flanders
+      ✅ Jimbo Jones
+      ✅ Moe
+      ❌ - valign="top"
+   📊 Images: 22 found, 963 missed
+[4/942]
+
+📺 Frozen
+   TMDB: 109445 (movie)
+   📡 Fetching TMDB credits... 52 actor photos
+   📖 Finding Fandom wiki... ✅ frozen/Frozen (31 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 25
+   🎨 Fetching character images...
+      ✅ Anna
+      ✅ Elsa
+      ✅ Hans
+      ✅ Kristoff
+      ✅ Olaf
+      ✅ Duke of Weselton
+      ✅ Marshmallow
+      ✅ Grand Pabbie
+      ✅ Oaken
+      ✅ Bulda
+      ✅ Agnarr
+      ✅ Iduna
+      ✅ Gothi
+      ✅ Gerda
+      ❌ -
+   📊 Images: 14 found, 11 missed
+[5/942]
+
+📺 The Lion King
+   TMDB: 8587 (movie)
+   📡 Fetching TMDB credits... 24 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Lion_King (42 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 20
+   🎨 Fetching character images...
+      ✅ Simba
+      ✅ Mufasa
+      ✅ Scar
+      ✅ Nala
+      ✅ Pumbaa
+      ✅ Timon
+      ✅ Rafiki
+      ✅ Zazu
+      ✅ Sarabi
+      ✅ Shenzi
+      ✅ Banzai
+      ✅ Ed
+      ✅ Sarafina
+   📊 Images: 13 found, 7 missed
+[6/942]
+
+📺 Finding Nemo
+   TMDB: 12 (movie)
+   📡 Fetching TMDB credits... 52 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Finding_Nemo (66 links)
+   👥 Fandom cast: 20 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Nemo
+      ✅ Marlin
+      ✅ Dory
+      ✅ Gill
+      ✅ Bloat
+      ✅ Peach
+      ✅ Gurgle
+      ✅ Bubbles
+      ✅ Deb (and "Flo")
+      ✅ Jacques
+      ✅ Nigel
+      ✅ Crush
+      ✅ Mr. Ray
+      ✅ Bruce
+      ✅ Anchor
+      ✅ Chum
+      ✅ Tad
+      ✅ Sheldon
+      ✅ Darla
+      ✅ Coral
+   📊 Images: 20 found, 9 missed
+[7/942]
+
+📺 Zootopia
+   TMDB: 269149 (movie)
+   📡 Fetching TMDB credits... 38 actor photos
+   📖 Finding Fandom wiki... ✅ zootopia/Zootopia (70 links)
+   👥 Fandom cast: 31 characters
+   👥 Total characters: 37
+   🎨 Fetching character images...
+      ✅ Judy Hopps
+      ❌ young Hopps
+      ✅ Nick Wilde
+      ❌ young Nick
+      ✅ Chief Bogo
+      ✅ Assistant Mayor Bellwether
+      ✅ Clawhauser
+      ✅ Bonnie Hopps
+      ✅ Stu Hopps
+      ✅ Yax
+      ✅ Mayor Lionheart
+      ✅ Mrs. Otterton
+      ✅ Duke Weaselton
+      ✅ Gazelle
+      ✅ Flash Slothmore
+      ✅ Mr. Big
+      ✅ Gideon Grey
+      ✅ Major Friedkin
+      ✅ Jerry Jumbeaux, Jr.
+      ✅ Dr. Madge Honey Badger
+      ✅ Nangi
+      ✅ Renato Manchas
+      ✅ Finnick
+      ✅ Fru Fru
+      ✅ Doug Ramses
+      ✅ Peter Moosebridge
+      ✅ Bucky Oryx-Antlerson
+      ✅ Pronk Oryx-Antlerson
+      ✅ Officer McHorn
+      ✅ Dharma Armadillo
+      ✅ Priscilla Tripletoe
+   📊 Images: 29 found, 8 missed
+[8/942]
+
+📺 The Incredibles
+   TMDB: 9806 (movie)
+   📡 Fetching TMDB credits... 33 actor photos
+   📖 Finding Fandom wiki... ✅ the-incredibles/The_Incredibles (40 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 28
+   🎨 Fetching character images...
+      ✅ Jack-Jack Parr
+      ✅ Tony Rydinger
+      ✅ Honey Best
+      ✅ Kari McKeen
+      ✅ Bomb Voyage
+      ✅ Oliver Sansweet
+      ✅ Oliver Sansweet’s Lawyer
+      ✅ Squeaker's Owner
+      ✅ Frank and Ollie
+      ✅ Rusty McAllister
+   📊 Images: 10 found, 18 missed
+[9/942]
+
+📺 Moana
+   TMDB: 277834 (movie)
+   📡 Fetching TMDB credits... 12 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Moana_(film) (19 links)
+   👥 Fandom cast: 7 characters
+   👥 Total characters: 14
+   🎨 Fetching character images...
+      ✅ Moana
+      ✅ Maui
+      ✅ Gramma Tala
+      ✅ Tui
+      ✅ Tamatoa
+      ✅ Sina
+      ✅ Heihei
+   📊 Images: 7 found, 7 missed
+[10/942]
+
+📺 Inside Out
+   TMDB: 150540 (movie)
+   📡 Fetching TMDB credits... 47 actor photos
+   📖 Finding Fandom wiki... ✅ inside-out/Inside_Out (76 links)
+   👥 Fandom cast: 16 characters
+   👥 Total characters: 20
+   🎨 Fetching character images...
+      ✅ Joy
+      ✅ Sadness
+      ✅ Bing Bong
+      ✅ Fear
+      ✅ Anger
+      ✅ Disgust
+      ✅ Riley
+      ✅ Mom
+      ✅ Dad
+      ✅ Forgetter Paula
+      ✅ Forgetter Bobby
+      ✅ Subconscious Guard Frank
+      ✅ Subconscious Guard Dave
+      ✅ Jangles
+      ❌ Mind Worker Cop Jake
+      ✅ Fritz
+   📊 Images: 15 found, 5 missed
+[11/942]
+
+📺 A Bug's Life
+   TMDB: 9487 (movie)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ✅ disney/A_Bug's_Life (101 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 20
+   🎨 Fetching character images...
+      ✅ Flik
+      ✅ Hopper
+      ✅ Atta
+      ✅ Dot
+      ✅ The Queen
+      ✅ Molt
+      ✅ P.T. Flea
+      ✅ Slim
+      ✅ Francis
+      ✅ Heimlich
+      ✅ Manny
+      ✅ Gypsy
+      ✅ Rosie
+      ✅ Dim
+      ✅ Mr. Soil
+      ✅ Dr. Flora
+      ✅ Thorny
+   📊 Images: 17 found, 3 missed
+[12/942]
+
+📺 Toy Story 2
+   TMDB: 10193 (movie)
+   📡 Fetching TMDB credits... 48 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Toy_Story_2 (60 links)
+   👥 Fandom cast: 23 characters
+   👥 Total characters: 60
+   🎨 Fetching character images...
+      ✅ Woody
+      ✅ Buzz Lightyear
+      ✅ Jessie
+      ✅ Stinky Pete the Prospector
+      ✅ Rex
+      ✅ Slinky Dog
+      ✅ Hamm
+      ✅ Al McWhiggin
+      ✅ Bo Peep
+      ✅ Mr. Potato Head
+      ✅ Mrs. Potato Head
+      ✅ Andy Davis
+      ✅ Sarge
+      ✅ Heimlich
+      ✅ Molly Davis
+      ✅ Tour Guide Barbie
+      ✅ Zurg
+      ✅ Andy's Mom
+      ✅ Geri
+      ✅ Little Green Men
+      ✅ Red Rock 'Em Sock 'Em Robot
+      ✅ Blue Rock 'Em Sock 'Em Robot
+      ✅ Flik
+   📊 Images: 23 found, 37 missed
+[13/942]
+
+📺 Monsters Inc
+   TMDB: 585 (movie)
+   📡 Fetching TMDB credits... 43 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 15
+[14/942]
+
+📺 Cars
+   TMDB: 920 (movie)
+   📡 Fetching TMDB credits... 65 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Cars (92 links)
+   👥 Fandom cast: 29 characters
+   👥 Total characters: 50
+   🎨 Fetching character images...
+      ✅ Lightning McQueen
+      ✅ Doc Hudson
+      ✅ Sally Carrera
+      ✅ Mater
+      ✅ Luigi
+      ✅ Ramone
+      ✅ Sheriff
+      ✅ Fillmore
+      ✅ Sarge
+      ✅ Flo
+      ✅ Guido
+      ✅ Chick Hicks
+      ✅ Mack
+      ✅ Red
+      ✅ Lynda Weathers
+      ✅ Tia
+      ✅ Boost
+      ✅ Snot Rod
+      ✅ Tex Dinoco
+      ✅ Jay Limo
+      ✅ Fred
+      ✅ Harv
+      ✅ Rusty and Dusty
+      ✅ Mike Wazowski
+      ✅ James P. Sullivan
+      ✅ Yeti
+      ✅ Woody
+      ✅ Buzz Lightyear
+      ✅ Flik
+   📊 Images: 29 found, 21 missed
+[15/942]
+
+📺 Ratatouille
+   TMDB: 2062 (movie)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ✅ ratatouille/Ratatouille (34 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 20
+   🎨 Fetching character images...
+      ✅ Remy
+      ✅ Alfredo Linguini
+      ❌ Colette Tatou
+      ❌ Chef Skinner
+      ✅ Anton Ego
+      ✅ Auguste Gusteau
+      ❌ Django
+      ❌ Emile
+      ❌ Horst
+      ❌ Larousse
+      ❌ Mustafa
+      ✅ Talon Labarthe
+      ❌ Pompidou
+      ❌ Ambrister Minion
+      ✅ Mabel
+   📊 Images: 6 found, 14 missed
+[16/942]
+
+📺 WALL-E
+   TMDB: 10681 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ disney/WALL-E_(film) (35 links)
+   👥 Fandom cast: 4 characters
+   👥 Total characters: 11
+   🎨 Fetching character images...
+      ✅ EVE
+      ✅ Captain B. McCrea
+      ✅ Shelby Forthright
+      ✅ John
+   📊 Images: 4 found, 7 missed
+[17/942]
+
+📺 Up
+   TMDB: 14160 (movie)
+   📡 Fetching TMDB credits... 29 actor photos
+   📖 Finding Fandom wiki... ✅ pixar/Up (23 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 16
+[18/942]
+
+📺 Brave
+   TMDB: 62177 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ pixar/Brave (33 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 15
+[19/942]
+
+📺 Monsters University
+   TMDB: 62211 (movie)
+   📡 Fetching TMDB credits... 88 actor photos
+   📖 Finding Fandom wiki... ✅ monsters-university/Monsters_University (52 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 52
+[20/942]
+
+📺 The Good Dinosaur
+   TMDB: 130925 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Good_Dinosaur (34 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 40
+   🎨 Fetching character images...
+      ✅ Arlo
+      ✅ Butch
+      ✅ Ramsey
+      ✅ Thunderclap
+      ✅ Poppa Henry
+      ✅ Momma Ida
+      ✅ Buck
+      ✅ Libby
+      ✅ Styracosaurus
+      ✅ Bubbha
+      ✅ Earl
+      ✅ Frostbite
+      ✅ Windgust
+   📊 Images: 13 found, 27 missed
+[21/942]
+
+📺 Finding Dory
+   TMDB: 127380 (movie)
+   📡 Fetching TMDB credits... 55 actor photos
+   📖 Finding Fandom wiki... ✅ findingdory/Finding_Dory (31 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 33
+   🎨 Fetching character images...
+      ✅ Dory
+      ✅ Nemo
+      ✅ Marlin
+      ✅ Jenny
+      ✅ Charlie
+      ✅ Mr. Ray
+      ✅ Crush
+      ✅ Hank
+      ✅ Destiny
+      ✅ Bailey
+      ✅ Gill
+      ✅ Deb
+      ✅ Jacques
+      ✅ Fluke
+      ✅ Rudder
+   📊 Images: 15 found, 18 missed
+[22/942]
+
+📺 Cars 3
+   TMDB: 260514 (movie)
+   📡 Fetching TMDB credits... 66 actor photos
+   📖 Finding Fandom wiki... ✅ cars-3/Cars_3 (106 links)
+   👥 Fandom cast: 50 characters
+   👥 Total characters: 54
+   🎨 Fetching character images...
+      ✅ Lightning McQueen
+      ✅ Cruz Ramirez
+      ✅ Smokey
+      ✅ Sterling
+      ✅ Mater
+      ✅ Jackson Storm
+      ✅ Dusty Rust-eze
+      ✅ Luigi
+      ✅ Sally
+      ✅ Miss Fritter
+      ✅ Natalie Certain
+      ✅ Bob Cutlass
+      ✅ Louise "Barnstormer" Nash
+      ✅ Darrell Cartrip
+      ✅ River Scott
+      ✅ Chick Hicks
+      ✅ Guido
+      ✅ Rusty Rust-eze
+      ✅ Mack
+      ✅ Cal Weathers
+      ✅ Fillmore
+      ✅ Junior "Midnight" Moon
+      ✅ Ray Reverham
+      ✅ Doc Hudson
+      ✅ Ramone
+      ✅ Tex Dinoco
+      ✅ Lizzie
+      ✅ Sarge
+      ✅ Flo
+      ✅ Shannon Spokes
+      ✅ Maddy McGear
+      ✅ Sheriff
+      ✅ Mike Joyride
+      ✅ Jeff Gorvette
+      ✅ Danny Swervez
+      ✅ Ryan "Inside" Laney
+      ✅ Bubba Wheelhouse
+      ✅ Chase Racelott
+      ✅ The King
+      ✅ Sweet Tea
+      ✅ Blind Spot
+      ✅ Brick Yardley
+      ✅ Kurt
+      ✅ Arvy
+      ✅ Gabriel
+      ✅ Bobby Swift
+      ✅ Faregame
+      ✅ Red
+      ✅ Albert Hinkey
+      ✅ Mr. Drippy
+   📊 Images: 50 found, 4 missed
+[23/942]
+
+📺 Coco
+   TMDB: 354912 (movie)
+   📡 Fetching TMDB credits... 56 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Coco_(film) (40 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 28
+   🎨 Fetching character images...
+      ✅ Miguel Rivera
+      ✅ Héctor
+      ✅ Ernesto de la Cruz
+      ✅ Imelda
+      ✅ Abuelita
+      ✅ Mamá Coco
+      ✅ Chicharrón
+      ✅ Frida Kahlo
+      ✅ Papá Julio
+      ✅ Enrique Rivera
+      ✅ Luisa Rivera
+      ✅ Tía Gloria
+      ✅ Tío Berto
+      ✅ Arrival Agent
+      ✅ Departure Agent
+      ✅ Emcee
+      ✅ Juan Ortodoncia
+   📊 Images: 17 found, 11 missed
+[24/942]
+
+📺 Incredibles 2
+   TMDB: 260513 (movie)
+   📡 Fetching TMDB credits... 68 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Incredibles_2 (61 links)
+   👥 Fandom cast: 19 characters
+   👥 Total characters: 30
+   🎨 Fetching character images...
+      ✅ Bob Parr/Mr. Incredible
+      ✅ Helen Parr/Elastigirl
+      ✅ Violet Parr
+      ✅ Dash Parr
+      ✅ Jack-Jack Parr
+      ✅ Lucius Best/Frozone
+      ✅ Winston Deavor
+      ✅ Evelyn Deavor
+      ✅ Edna Mode
+      ✅ Rick Dicker
+      ✅ Tony Rydinger
+      ✅ Karen/Voyd
+      ✅ Gus Burns/Reflux
+      ✅ Krushauer
+      ✅ Ambassador Henrietta Selick
+      ✅ the Underminer
+      ✅ Honey Best
+      ✅ Screech
+      ✅ Brick
+   📊 Images: 19 found, 11 missed
+[25/942]
+
+📺 Toy Story 4
+   TMDB: 301528 (movie)
+   📡 Fetching TMDB credits... 42 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Toy_Story_4 (80 links)
+   👥 Fandom cast: 35 characters
+   👥 Total characters: 45
+   🎨 Fetching character images...
+      ✅ Woody
+      ✅ Buzz Lightyear
+      ✅ Bo Peep
+      ✅ Forky
+      ✅ Ducky
+      ✅ Bunny
+      ✅ Bonnie Anderson
+      ✅ Gabby Gabby
+      ✅ Duke Caboom
+      ✅ Giggle McDimples
+      ✅ Mr. Anderson
+      ✅ Mrs. Anderson
+      ✅ Jessie
+      ✅ Rex
+      ✅ Hamm
+      ✅ Slinky Dog
+      ✅ Mr. Potato Head
+      ✅ Mrs. Potato Head
+      ✅ Dolly
+      ✅ Trixie
+      ✅ Buttercup
+      ✅ Mr. Pricklepants
+      ✅ Billy, Goat, and Gruff
+      ✅ Little Green Men
+      ✅ Andy Davis
+      ✅ Mrs. Davis
+      ✅ Margaret
+      ✅ Combat Carl
+      ✅ Old Timer
+      ✅ Melephant Brooks
+      ✅ Bitey White
+      ✅ Carl Reineroceros
+      ✅ Axel
+      ✅ Karen Beverly
+      ✅ Miss Wendy
+   📊 Images: 35 found, 10 missed
+[26/942]
+
+📺 Onward
+   TMDB: 508439 (movie)
+   📡 Fetching TMDB credits... 13 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Onward (39 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 15
+   🎨 Fetching character images...
+      ✅ Ian Lightfoot
+      ✅ Barley Lightfoot
+      ✅ Laurel Lightfoot
+      ✅ Corey the Manticore
+      ✅ Colt Bronco
+      ✅ Wilden Lightfoot
+      ✅ Specter
+      ✅ Gore
+      ✅ Dewdrop
+      ✅ Grecklin
+      ✅ Gaxton
+      ✅ Avel
+      ✅ Fennwick
+   📊 Images: 13 found, 2 missed
+[27/942]
+
+📺 Soul
+   TMDB: 508442 (movie)
+   📡 Fetching TMDB credits... 25 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Soul (43 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 36
+   🎨 Fetching character images...
+      ✅ Joe Gardner
+      ✅ 22
+      ✅ Moonwind Stardancer
+      ✅ Terry
+      ✅ Counselor Jerry B
+      ✅ Libba Gardner
+      ✅ Curley Baker
+      ✅ Dorothea Williams
+      ✅ Paul
+      ✅ Connie
+      ✅ Counselor Jerry C
+      ✅ Counselor Jerry D
+      ✅ Counselor Jerry E
+      ✅ Doctor
+      ✅ Miho
+      ✅ Ray Gardner
+      ✅ Principal Arroyo
+   📊 Images: 17 found, 19 missed
+[28/942]
+
+📺 Luca
+   TMDB: 508943 (movie)
+   📡 Fetching TMDB credits... 18 actor photos
+   📖 Finding Fandom wiki... ✅ pixar/Luca (24 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 20
+   🎨 Fetching character images...
+      ✅ Luca Paguro
+      ✅ Alberto Scorfano
+      ✅ Giulia Marcovaldo
+      ✅ Ercole Visconti
+      ✅ Daniela Paguro
+      ✅ Massimo Marcovaldo
+      ✅ Lorenzo Paguro
+      ❌ Ciccio
+      ✅ Guido
+      ❌ Mrs. Marsigliese
+      ✅ Grandma Paguro
+      ✅ Uncle Ugo
+   📊 Images: 10 found, 10 missed
+[29/942]
+
+📺 Turning Red
+   TMDB: 675353 (movie)
+   📡 Fetching TMDB credits... 56 actor photos
+   📖 Finding Fandom wiki... ✅ turningred/Turning_Red (45 links)
+   👥 Fandom cast: 22 characters
+   👥 Total characters: 100
+   🎨 Fetching character images...
+      ✅ Meilin Lee
+      ✅ Ming Lee
+      ✅ Jin Lee
+      ✅ Miriam
+      ✅ Priya
+      ✅ Abby
+      ✅ Wu
+      ✅ Tyler
+      ✅ Devon
+      ✅ Robaire
+      ✅ Aaron Z.
+      ✅ Aaron T.
+      ✅ Jesse
+      ✅ Tae Young
+      ✅ Lauren
+      ✅ Mr. Kieslowski
+      ✅ Mr. Gao
+      ✅ Ping
+      ✅ Chen
+      ✅ Helen
+      ✅ Lily
+      ✅ Stacy Frick
+   📊 Images: 22 found, 78 missed
+[30/942]
+
+📺 Lightyear
+   TMDB: 718789 (movie)
+   📡 Fetching TMDB credits... 29 actor photos
+   📖 Finding Fandom wiki... ✅ lightyear/Lightyear (44 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 13
+   🎨 Fetching character images...
+      ✅ Buzz Lightyear
+      ✅ Izzy Hawthorne
+      ✅ Mo Morrison
+      ✅ Sox
+      ✅ Emperor Zurg
+      ✅ Darby Steel
+      ✅ Diaz
+      ✅ Alisha Hawthorne
+      ✅ Commander Burnside
+   📊 Images: 9 found, 4 missed
+[31/942]
+
+📺 Elemental
+   TMDB: 976573 (movie)
+   📡 Fetching TMDB credits... 16 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Elemental (33 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ✅ Ember Lumen
+      ✅ Wade Ripple
+      ✅ Bernie Lumen
+      ✅ Cinder Lumen
+      ✅ Gale Cumulus
+      ✅ Brook Ripple
+      ✅ Clod
+      ✅ Harold Ripple
+      ✅ Flarrietta
+      ✅ Fern Grouchwood
+      ✅ Alan Ripple
+      ✅ Flarry
+      ✅ Eddy Ripple
+      ✅ Lake Ripple
+      ✅ Ghibli
+   📊 Images: 15 found, 12 missed
+[32/942]
+
+📺 Wish
+   TMDB: 1022789 (movie)
+   📡 Fetching TMDB credits... 32 actor photos
+   📖 Finding Fandom wiki... ✅ wish/Wish (26 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 46
+   🎨 Fetching character images...
+      ✅ Asha
+      ✅ Magnifico
+      ✅ Valentino
+      ✅ Queen Amaya
+      ✅ Sabino
+      ✅ Sakina
+      ✅ Dahlia
+      ✅ Gabo
+      ✅ Hal
+      ✅ Simon
+      ✅ Safi
+      ✅ Dario
+      ✅ Bazeema
+      ❌ -
+   📊 Images: 13 found, 33 missed
+[33/942]
+
+📺 Strange World
+   TMDB: 840430 (movie)
+   📡 Fetching TMDB credits... 34 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Strange_World (22 links)
+   👥 Fandom cast: 8 characters
+   👥 Total characters: 54
+   🎨 Fetching character images...
+      ✅ Searcher Clade
+      ✅ Jaeger Clade
+      ✅ Ethan Clade
+      ✅ Meridian Clade
+      ✅ Callisto Mal
+      ✅ Caspian
+      ✅ Diazo
+      ✅ Kardez
+   📊 Images: 8 found, 46 missed
+[34/942]
+
+📺 Snow White and the Seven Dwarfs
+   TMDB: 408 (movie)
+   📡 Fetching TMDB credits... 12 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Snow_White_and_the_Seven_Dwarfs (25 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 16
+   🎨 Fetching character images...
+      ✅ Snow White
+      ✅ Doc
+      ✅ Grumpy
+      ✅ Happy
+      ✅ Bashful
+      ✅ Sneezy
+      ✅ Dopey
+      ✅ Prince
+      ✅ Queen/Witch
+      ✅ Huntsman
+      ✅ Birds
+   📊 Images: 11 found, 5 missed
+[35/942]
+
+📺 Pinocchio
+   TMDB: 10895 (movie)
+   📡 Fetching TMDB credits... 10 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Pinocchio_(film) (20 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 17
+   🎨 Fetching character images...
+      ✅ Pinocchio
+      ✅ Jiminy Cricket
+      ✅ Geppetto
+      ✅ J. Worthington Foulfellow
+      ✅ Gideon
+      ✅ Coachman
+      ✅ Blue Fairy
+      ✅ Lampwick
+      ✅ Donkeys
+      ✅ Monstro
+   📊 Images: 10 found, 7 missed
+[36/942]
+
+📺 Fantasia
+   TMDB: 756 (movie)
+   📡 Fetching TMDB credits... 3 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 4
+[37/942]
+
+📺 Dumbo
+   TMDB: 11360 (movie)
+   📡 Fetching TMDB credits... 11 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 21
+[38/942]
+
+📺 Bambi
+   TMDB: 3170 (movie)
+   📡 Fetching TMDB credits... 12 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Bambi_(film) (16 links)
+   👥 Fandom cast: 6 characters
+   👥 Total characters: 23
+   🎨 Fetching character images...
+      ✅ Bambi's mother
+      ✅ Friend Owl
+      ✅ the Great Prince of the Forest
+      ✅ Miss Bunny
+      ✅ Aunt Ena
+      ✅ Mrs. Hare
+   📊 Images: 6 found, 17 missed
+[39/942]
+
+📺 Cinderella
+   TMDB: 11003 (movie)
+   📡 Fetching TMDB credits... 24 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 30
+[40/942]
+
+📺 Alice in Wonderland
+   TMDB: 12092 (movie)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 26
+[41/942]
+
+📺 Peter Pan
+   TMDB: 11912 (movie)
+   📡 Fetching TMDB credits... 30 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Peter_Pan_(film) (31 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 41
+   🎨 Fetching character images...
+      ✅ Peter Pan
+      ✅ Wendy Darling
+      ✅ Captain Hook
+      ✅ Pirates
+      ✅ Mary Darling
+      ✅ John Darling
+      ✅ Michael Darling
+      ✅ Indian Chief
+      ✅ Nana
+      ✅ Mermaids
+   📊 Images: 10 found, 31 missed
+[42/942]
+
+📺 Lady and the Tramp
+   TMDB: 10378 (movie)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Lady_and_the_Tramp (34 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 10
+   🎨 Fetching character images...
+      ✅ Lady
+      ✅ Tramp
+      ✅ Trusty
+      ✅ Bull
+      ✅ Beaver
+      ✅ Aunt Sarah
+      ✅ Peg
+      ✅ Toughy
+      ✅ Jim Dear
+      ✅ Jim Jr.
+   📊 Images: 10 found, 0 missed
+[43/942]
+
+📺 Sleeping Beauty
+   TMDB: 12155 (movie)
+   📡 Fetching TMDB credits... 42 actor photos
+   📖 Finding Fandom wiki... ✅ sleepingbeauty/Sleeping_Beauty (32 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 68
+   🎨 Fetching character images...
+      ✅ Princess Aurora
+      ✅ Prince Phillip
+      ✅ Maleficent
+      ❌ Flora
+      ❌ Fauna
+      ❌ Merryweather
+      ✅ King Stefan
+      ✅ King Hubert
+      ✅ Goon
+      ❌ Owl
+   📊 Images: 6 found, 62 missed
+[44/942]
+
+📺 101 Dalmatians
+   TMDB: 12230 (movie)
+   📡 Fetching TMDB credits... 26 actor photos
+   📖 Finding Fandom wiki... ✅ disney/101_Dalmatians (15 links)
+   👥 Fandom cast: 8 characters
+   👥 Total characters: 39
+   🎨 Fetching character images...
+      ✅ Cruella De Vil
+      ✅ Roger Dearly
+      ✅ Anita Dearly
+      ✅ Nanny
+      ✅ Jasper
+      ✅ Horace
+      ✅ Mr. Skinner
+      ✅ Alonzo
+   📊 Images: 8 found, 31 missed
+[45/942]
+
+📺 The Sword in the Stone
+   TMDB: 10264 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Sword_in_the_Stone (23 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 38
+   🎨 Fetching character images...
+      ✅ Sir Ector
+      ✅ Merlin
+      ✅ Arthur
+      ✅ Archimedes
+      ✅ Girl Squirrel
+      ✅ Madam Mim
+      ✅ Sir Kay
+      ✅ Sir Pellinore
+      ✅ Sir Bart
+      ✅ Wolf
+   📊 Images: 10 found, 28 missed
+[46/942]
+
+📺 The Jungle Book
+   TMDB: 9325 (movie)
+   📡 Fetching TMDB credits... 16 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Jungle_Book (40 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 25
+   🎨 Fetching character images...
+      ✅ Baloo
+      ✅ Bagheera
+      ✅ King Louie
+      ✅ Shere Khan
+      ✅ Kaa
+      ✅ Buzzie
+      ✅ Mowgli
+      ✅ Winifred
+      ✅ Hathi, Jr.
+      ✅ Akela
+      ✅ Rama
+      ✅ The Girl
+      ✅ Monkeys
+      ✅ Flunkey
+      ✅ Jungle Patrol
+   📊 Images: 15 found, 10 missed
+[47/942]
+
+📺 Robin Hood
+   TMDB: 10677 (movie)
+   📡 Fetching TMDB credits... 30 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Robin_Hood_(film) (36 links)
+   👥 Fandom cast: 16 characters
+   👥 Total characters: 62
+   🎨 Fetching character images...
+      ✅ Alan-A-Dale
+      ✅ Prince John
+      ✅ Sir Hiss
+      ✅ Robin Hood
+      ✅ Maid Marian
+      ✅ Little John
+      ✅ Friar Tuck
+      ✅ Lady Kluck
+      ✅ Sheriff of Nottingham
+      ✅ Trigger
+      ✅ Father Sexton
+      ✅ Mother Little Sister
+      ✅ Sis
+      ✅ Tagalong
+      ✅ Otto
+      ✅ Captain Crocodile
+   📊 Images: 16 found, 46 missed
+[48/942]
+
+📺 The Rescuers
+   TMDB: 11688 (movie)
+   📡 Fetching TMDB credits... 26 actor photos
+   📖 Finding Fandom wiki... ✅ the-rescuers/The_Rescuers (42 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 28
+   🎨 Fetching character images...
+      ✅ Bernard
+      ✅ Miss Bianca
+      ❌ blowhole
+      ✅ Mr. Snoops
+      ❌ Luke
+      ❌ Merchandising the Wright Brothers
+      ✅ Rufus
+      ✅ Penny
+      ✅ Mr. Chairman
+      ❌ Gramps
+      ❌ brand of outboard motors
+      ✅ Deadeye
+      ✅ Digger
+      ✅ Deacon Owl
+   📊 Images: 9 found, 19 missed
+[49/942]
+
+📺 The Fox and the Hound
+   TMDB: 10926 (movie)
+   📡 Fetching TMDB credits... 14 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Fox_and_the_Hound (31 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 32
+   🎨 Fetching character images...
+      ✅ Tod
+      ✅ Copper
+      ✅ Young Copper
+      ✅ Big Mama
+      ✅ Amos Slade
+      ✅ Vixey
+      ✅ Widow Tweed
+      ✅ Chief
+      ✅ Mr. Digger
+      ✅ Porcupine
+      ✅ Dinky
+      ✅ Boomer
+      ✅ The Bear
+      ✅ Squeeks
+   📊 Images: 14 found, 18 missed
+[50/942]
+
+📺 The Great Mouse Detective
+   TMDB: 10048 (movie)
+   📡 Fetching TMDB credits... 30 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Great_Mouse_Detective (27 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 60
+   🎨 Fetching character images...
+      ✅ Basil of Baker Street
+      ✅ Professor Ratigan
+      ✅ David Q. Dawson
+      ✅ Olivia Flaversham
+      ✅ Fidget
+      ✅ Mr. Flaversham
+      ✅ Mrs. Judson
+      ✅ Mouse Queen
+      ✅ Sherlock Holmes
+      ✅ Dr. Watson
+      ✅ Thugs
+      ✅ Kitty
+   📊 Images: 12 found, 48 missed
+[51/942]
+
+📺 Oliver and Company
+   TMDB: 11000 (movie)
+   📡 Fetching TMDB credits... 39 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 72
+[52/942]
+
+📺 The Little Mermaid
+   TMDB: 10144 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ thelittlemermaid/The_Little_Mermaid (24 links)
+   👥 Fandom cast: 4 characters
+   👥 Total characters: 13
+   🎨 Fetching character images...
+      ✅ Ariel
+      ✅ Flounder
+      ✅ King Triton
+      ✅ Max
+   📊 Images: 4 found, 9 missed
+[53/942]
+
+📺 The Rescuers Down Under
+   TMDB: 10265 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Rescuers_Down_Under (33 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 62
+   🎨 Fetching character images...
+      ✅ Bernard
+      ✅ Miss Bianca
+      ✅ Wilbur
+      ✅ Joanna
+      ✅ Percival C. McLeach
+      ✅ Frank
+      ✅ Krebbs
+      ✅ Faloo
+      ✅ Chairmouse
+      ✅ Baitmouse
+      ✅ Cody's Mother
+   📊 Images: 11 found, 51 missed
+[54/942]
+
+📺 Beauty and the Beast
+   TMDB: 10020 (movie)
+   📡 Fetching TMDB credits... 32 actor photos
+   📖 Finding Fandom wiki... ✅ beautyandthebeast/Beauty_and_the_Beast (19 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Catherine Chandler
+      ✅ Vincent Keller
+      ✅ Tess Vargas
+      ✅ J.T. Forbes
+      ✅ Heather Chandler
+      ✅ Gabriel Lowan
+      ✅ Joe Bishop
+      ✅ Evan Marks
+      ✅ Tori Windsor
+   📊 Images: 9 found, 20 missed
+[55/942]
+
+📺 Aladdin
+   TMDB: 812 (movie)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ✅ aladdin/Aladdin_(film) (49 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 18
+   🎨 Fetching character images...
+      ✅ Aladdin
+      ✅ Jasmine
+      ✅ Jafar
+      ✅ Abu
+      ✅ Iago
+      ✅ the Sultan
+      ✅ Razoul
+      ❌ Fish Merchant
+      ✅ Melon Merchant
+      ✅ Harem Girls
+      ✅ Fat Woman with Red Lipstick
+      ✅ Genie's belly dancers
+      ✅ Shadigna
+      ✅ Bakhtawar
+   📊 Images: 13 found, 5 missed
+[56/942]
+
+📺 Pocahontas
+   TMDB: 10564 (movie)
+   📡 Fetching TMDB credits... 28 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Pocahontas_(film) (30 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 64
+[57/942]
+
+📺 The Hunchback of Notre Dame
+   TMDB: 10567 (movie)
+   📡 Fetching TMDB credits... 30 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Hunchback_of_Notre_Dame (40 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 22
+   🎨 Fetching character images...
+      ✅ Quasimodo
+      ✅ Esmeralda
+      ✅ Claude Frollo
+      ✅ Captain Phoebus
+      ✅ Clopin
+      ✅ Victor
+      ✅ Hugo
+      ✅ Laverne
+      ✅ Djali
+      ✅ Quasimodo's Mother
+      ✅ Brutish Guard
+      ✅ Oafish Guard
+   📊 Images: 12 found, 10 missed
+[58/942]
+
+📺 Hercules
+   TMDB: 10070 (movie)
+   📡 Fetching TMDB credits... 16 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Hercules_(film) (58 links)
+   👥 Fandom cast: 19 characters
+   👥 Total characters: 39
+   🎨 Fetching character images...
+      ✅ Hercules
+      ✅ Philoctetes/Phil
+      ✅ Hades
+      ✅ Megara
+      ✅ Pegasus
+      ✅ Zeus
+      ✅ Hera
+      ✅ Thalia
+      ✅ Pain
+      ✅ Panic
+      ✅ Arges
+      ✅ Amphitryon
+      ✅ Clotho
+      ✅ Lachesis
+      ✅ Atropos
+      ✅ Hermes
+      ✅ Nessus
+      ✅ Apollo
+      ✅ Narrator
+   📊 Images: 19 found, 20 missed
+[59/942]
+
+📺 Mulan
+   TMDB: 10674 (movie)
+   📡 Fetching TMDB credits... 39 actor photos
+   📖 Finding Fandom wiki... ✅ mulan/Mulan (18 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 31
+   🎨 Fetching character images...
+      ✅ Mushu
+      ✅ Yao
+      ✅ Ling
+      ✅ Chien-Po
+      ✅ Chi-Fu
+      ❌ Fa Zhou
+      ❌ Fa Li
+      ✅ General Li
+      ❌ Cri-Kee
+      ✅ Little Brother
+   📊 Images: 7 found, 24 missed
+[60/942]
+
+📺 Tarzan
+   TMDB: 11619 (movie)
+   📡 Fetching TMDB credits... 24 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Tarzan_(film) (40 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 43
+   🎨 Fetching character images...
+      ✅ Tarzan
+      ✅ Jane Porter
+      ✅ Professor Archimedes Q. Porter
+      ✅ Tantor
+      ✅ Terk
+      ✅ Kala
+      ✅ Kerchak
+      ✅ Clayton
+      ✅ Mungo
+      ✅ Flynt
+      ✅ Manu
+      ✅ Tantor's Mother
+   📊 Images: 12 found, 31 missed
+[61/942]
+
+📺 The Emperor's New Groove
+   TMDB: 11881 (movie)
+   📡 Fetching TMDB credits... 38 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Emperor's_New_Groove (32 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 79
+   🎨 Fetching character images...
+      ✅ Emperor Kuzco
+      ✅ Pacha
+      ✅ Yzma
+      ✅ Kronk
+      ✅ Chicha
+      ✅ Chaca
+      ✅ Tipo
+      ✅ Mata the Waitress
+      ✅ Rudy
+      ✅ Topo
+      ✅ Irate Chef
+      ✅ Cat Yzma
+      ✅ Jaguars
+   📊 Images: 13 found, 66 missed
+[62/942]
+
+📺 Atlantis The Lost Empire
+   TMDB: 11876 (movie)
+   📡 Fetching TMDB credits... 66 actor photos
+   📖 Finding Fandom wiki... ✅ atlantisthelostempire/Atlantis:_The_Lost_Empire (40 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 67
+[63/942]
+
+📺 Lilo and Stitch
+   TMDB: 11544 (movie)
+   📡 Fetching TMDB credits... 31 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 12
+[64/942]
+
+📺 Treasure Planet
+   TMDB: 10882 (movie)
+   📡 Fetching TMDB credits... 11 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Treasure_Planet (52 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 12
+[65/942]
+
+📺 Brother Bear
+   TMDB: 10220 (movie)
+   📡 Fetching TMDB credits... 44 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Brother_Bear (29 links)
+   👥 Fandom cast: 8 characters
+   👥 Total characters: 67
+   🎨 Fetching character images...
+      ✅ Kenai
+      ✅ Koda
+      ✅ Rutt
+      ✅ Tuke
+      ✅ Denahi
+      ✅ Sitka
+      ✅ Tanana
+      ✅ Tug
+   📊 Images: 8 found, 59 missed
+[66/942]
+
+📺 Home on the Range
+   TMDB: 10244 (movie)
+   📡 Fetching TMDB credits... 10 actor photos
+   📖 Finding Fandom wiki... ✅ home-on-the-range/Home_on_the_Range (39 links)
+   👥 Fandom cast: 1 characters
+   👥 Total characters: 16
+   🎨 Fetching character images...
+      ❌ Barry and Bob
+   📊 Images: 0 found, 16 missed
+[67/942]
+
+📺 Chicken Little
+   TMDB: 10160 (movie)
+   📡 Fetching TMDB credits... 19 actor photos
+   📖 Finding Fandom wiki... ✅ chickenlittle/Chicken_Little_(film) (77 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 60
+   🎨 Fetching character images...
+      ✅ Ace "Chicken Little" Cluck
+      ✅ Abigail "Abby" Mallard
+      ❌ Runt of the Litter: HTTP 503
+      ✅ Fish Out of Water
+      ✅ Buck "Ace" Cluck
+      ❌ 1943 short film
+      ✅ Goosey Loosey
+      ✅ Turkey Lurkey
+      ✅ Kirby
+      ✅ Melvin
+      ✅ Tina
+      ✅ Morkubine Porcupine
+      ✅ Mr. Woolensworth
+      ✅ Principal Fetchit
+      ❌ Alien Cop
+      ❌ Ace - Hollywood Chicken Little
+      ✅ Dog Announcer
+   📊 Images: 13 found, 47 missed
+[68/942]
+
+📺 Meet the Robinsons
+   TMDB: 10997 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ meet-the-robinsons/Meet_the_Robinsons_(film) (42 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 40
+   🎨 Fetching character images...
+      ❌ Cornelius Robinson
+      ❌ Wilbur Robinson
+      ✅ Uncle Gaston
+      ❌ Gym Coach
+      ❌ DOR-15
+      ❌ CEO of InventCo
+      ❌ Carl
+      ❌ Franny Robinson
+      ❌ Uncle Art
+      ✅ Lucille Krunklehorn
+      ❌ Bowler Hat Guy
+      ❌ Mr. Willerstein
+      ❌ Mildred
+      ❌ Mrs. Harrington
+      ❌ Receptionist
+      ❌ Mr. Harrington
+      ✅ Lefty
+   📊 Images: 3 found, 37 missed
+[69/942]
+
+📺 Bolt
+   TMDB: 13053 (movie)
+   📡 Fetching TMDB credits... 43 actor photos
+   📖 Finding Fandom wiki... ✅ bolt/Bolt_(film) (42 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Bolt
+      ✅ Mittens
+      ✅ Rhino
+      ✅ Penny
+      ✅ Dr. Calico
+      ✅ Penny's Mom
+      ✅ Blake
+      ✅ Tom
+      ✅ Billy
+      ✅ The Director
+      ✅ Mindy Parker
+      ✅ Thug
+      ✅ Officer Ester
+      ✅ Officer Lloyd
+      ✅ Officer Martin
+   📊 Images: 15 found, 14 missed
+[70/942]
+
+📺 The Princess and the Frog
+   TMDB: 10198 (movie)
+   📡 Fetching TMDB credits... 26 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Princess_and_the_Frog (37 links)
+   👥 Fandom cast: 16 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Tiana
+      ✅ Prince Naveen
+      ✅ Dr. Facilier
+      ✅ Louis
+      ✅ Charlotte
+      ✅ Ray
+      ✅ Lawrence
+      ✅ Mama Odie
+      ✅ Eudora
+      ✅ James
+      ✅ "Big Daddy" La Bouff
+      ✅ Darnell
+      ✅ Two Fingers
+      ✅ Mr. Harvey Fenner
+      ✅ Ian the Gator
+      ✅ Georgia
+   📊 Images: 16 found, 13 missed
+[71/942]
+
+📺 Tangled
+   TMDB: 38757 (movie)
+   📡 Fetching TMDB credits... 35 actor photos
+   📖 Finding Fandom wiki... ✅ tangled/Tangled (61 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 15
+   🎨 Fetching character images...
+      ✅ Rapunzel
+      ✅ Eugene Fitzherbert
+      ✅ Mother Gothel
+      ❌ Hookhand
+      ✅ The Stabbington Brothers
+      ✅ Big Nose
+      ✅ Shorty
+      ✅ Vladimir
+      ✅ Captain of the Guard
+   📊 Images: 8 found, 7 missed
+[72/942]
+
+📺 Wreck-It Ralph
+   TMDB: 82690 (movie)
+   📡 Fetching TMDB credits... 57 actor photos
+   📖 Finding Fandom wiki... ✅ wreckitralph/Wreck-It_Ralph_(film) (81 links)
+   👥 Fandom cast: 36 characters
+   👥 Total characters: 39
+   🎨 Fetching character images...
+      ✅ Tim Mertens
+      ✅ Wreck-It Ralph
+      ✅ Vanellope von Schweetz
+      ✅ Fix-It Felix, Jr.
+      ✅ Sergeant Tamora Jean Calhoun
+      ✅ Turbo
+      ✅ Taffyta Muttonfudge
+      ✅ Markowski
+      ✅ Mr. Litwak
+      ✅ General Hologram
+      ✅ Mary
+      ✅ Cyril the Zombie
+      ✅ Don
+      ✅ Deanna
+      ✅ Roy
+      ✅ Wynnchel
+      ✅ Duncan
+      ✅ Root Beer Tapper
+      ✅ Moppet Girl
+      ✅ Beard Papa
+      ✅ Sour Bill
+      ✅ Candlehead
+      ✅ Rancis Fluggerbutter
+      ✅ Jubileena Bing-Bing
+      ✅ Crumbelina DiCaramello
+      ✅ Kohut
+      ✅ Dr. Brad Scott
+      ✅ Clyde
+      ✅ M. Bison
+      ✅ Satine
+      ✅ Cyborg
+      ✅ Sonic the Hedgehog
+      ✅ Surge Protector
+      ✅ Ryu
+      ✅ Yuni Verse
+      ✅ Oreo Guard
+   📊 Images: 36 found, 3 missed
+[73/942]
+
+📺 Big Hero 6
+   TMDB: 177572 (movie)
+   📡 Fetching TMDB credits... 45 actor photos
+   📖 Finding Fandom wiki... ✅ bighero6/Big_Hero_6_(film) (36 links)
+   👥 Fandom cast: 18 characters
+   👥 Total characters: 40
+   🎨 Fetching character images...
+      ✅ Ryan Potter
+      ✅ Scott Adsit
+      ✅ Jamie Chung
+      ✅ Damon Wayans, Jr.
+      ✅ T.J. Miller
+      ✅ Génesis Rodríguez
+      ✅ Daniel Henney
+      ✅ James Cromwell
+      ✅ Maya Rudolph
+      ✅ Alan Tudyk
+      ✅ David Shaughnessy
+      ✅ Paul Briggs
+      ❌ Charlotte Gulezian
+      ❌ Katie Lowes
+      ✅ Daniel Gerson
+      ✅ Stan Lee
+      ❌ Also in the Latin American Spanish dub
+      ❌ Abraham Benrubi
+   📊 Images: 14 found, 26 missed
+[74/942]
+
+📺 Ralph Breaks the Internet
+   TMDB: 404368 (movie)
+   📡 Fetching TMDB credits... 70 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Ralph_Breaks_the_Internet (132 links)
+   👥 Fandom cast: 42 characters
+   👥 Total characters: 78
+   🎨 Fetching character images...
+      ✅ Wreck-It Ralph
+      ✅ Vanellope von Schweetz
+      ✅ Shank
+      ✅ Yesss
+      ✅ Fix-It Felix Jr.
+      ✅ Sergeant Calhoun
+      ✅ J.P. Spamley
+      ✅ Double Dan
+      ✅ KnowsMore
+      ✅ Stan Litwak
+      ✅ Maybe
+      ✅ Eboy
+      ✅ Arthur
+      ✅ Snow White
+      ✅ Cinderella
+      ✅ Aurora
+      ✅ Ariel
+      ✅ Belle
+      ✅ Jasmine
+      ✅ Pocahontas
+      ✅ Fa Mulan
+      ✅ Tiana
+      ✅ Rapunzel
+      ✅ Merida
+      ✅ Anna
+      ✅ Elsa
+      ✅ Moana
+      ✅ Sour Bill
+      ✅ Surge Protector
+      ✅ Taffyta Muttonfudge
+      ✅ Candlehead
+      ✅ Rancis Fluggerbutter
+      ✅ Gene
+      ✅ Duncan
+      ❌ Sonic
+      ✅ Jaq and Gus
+      ✅ Buzz Lightyear
+      ✅ Eeyore
+      ✅ Grumpy
+      ✅ Baby Groot
+      ✅ C-3PO
+      ✅ FN-3181
+   📊 Images: 41 found, 37 missed
+[75/942]
+
+📺 Frozen 2
+   TMDB: 330457 (movie)
+   📡 Fetching TMDB credits... 54 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 26
+[76/942]
+
+📺 Raya and the Last Dragon
+   TMDB: 527774 (movie)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Raya_and_the_Last_Dragon (28 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 21
+   🎨 Fetching character images...
+      ✅ Raya
+      ✅ Sisu
+      ✅ Boun
+      ✅ Namaari
+      ✅ Chief Benja
+      ✅ Tong
+      ✅ Virana
+      ✅ Dang Hu
+      ✅ Tuk Tuk
+      ✅ Dang Hai
+   📊 Images: 10 found, 11 missed
+[77/942]
+
+📺 Encanto
+   TMDB: 568124 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ encanto/Encanto (45 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 26
+[78/942]
+
+📺 Shrek 2
+   TMDB: 337 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Shrek_2 (43 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 39
+   🎨 Fetching character images...
+      ✅ Shrek
+      ✅ Donkey
+      ✅ Princess Fiona
+      ✅ Queen Lillian
+      ✅ Puss in Boots
+      ✅ King Harold
+      ✅ Prince Charming
+      ✅ Fairy Godmother
+      ✅ Wolf
+      ✅ Three Pigs
+      ✅ Gingy
+      ✅ Blind Mouse
+      ✅ Mirror
+      ✅ Ugly Stepsister
+   📊 Images: 14 found, 25 missed
+[79/942]
+
+📺 Shrek Forever After
+   TMDB: 38055 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Shrek_Forever_After (41 links)
+   👥 Fandom cast: 20 characters
+   👥 Total characters: 38
+   🎨 Fetching character images...
+      ✅ Shrek
+      ✅ Donkey
+      ✅ Fiona
+      ✅ Puss in Boots
+      ✅ Rumpelstiltskin
+      ✅ Queen Lillian
+      ✅ King Harold
+      ✅ Brogan
+      ✅ Cookie
+      ✅ Griselda
+      ✅ Farkle
+      ✅ Felicia
+      ✅ Gingy
+      ✅ Wolf
+      ✅ Three Blind Mice
+      ✅ Three Pigs
+      ✅ Magic Mirror
+      ✅ Pied Piper
+      ✅ Doris the Ugly Stepsister
+      ✅ Mabel
+   📊 Images: 20 found, 18 missed
+[80/942]
+
+📺 Antz
+   TMDB: 8916 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ antz/Antz (132 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 14
+   🎨 Fetching character images...
+      ✅ Z Marion-4195 "Z"
+      ✅ Princess Bala
+      ✅ General Mandible
+      ✅ Corporal Weaver
+      ✅ Azteca
+      ❌ flying ant
+      ✅ Staff Sergeant Barbatus
+      ✅ Queen Ant
+      ✅ Chip
+      ❌ The Foreman
+      ❌ Grebs
+      ✅ Muffin "Muffy" the Wasp
+      ❌ Z's Psychiatrist
+   📊 Images: 9 found, 5 missed
+[81/942]
+
+📺 The Prince of Egypt
+   TMDB: 9629 (movie)
+   📡 Fetching TMDB credits... 13 actor photos
+   📖 Finding Fandom wiki... ✅ theprinceofegypt/The_Prince_of_Egypt (42 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Moses
+      ✅ Rameses
+      ❌ Tzipporah
+      ✅ Miriam
+      ✅ Aaron
+      ✅ Jethro
+      ✅ Pharaoh Seti
+      ✅ Queen Tuya
+      ✅ Hotep
+      ✅ Huy
+      ❌ Deliver Us
+      ✅ Amun
+   📊 Images: 10 found, 19 missed
+[82/942]
+
+📺 Chicken Run
+   TMDB: 8873 (movie)
+   📡 Fetching TMDB credits... 32 actor photos
+   📖 Finding Fandom wiki... ✅ chickenrun/Chicken_Run (24 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 45
+   🎨 Fetching character images...
+      ✅ Ginger
+      ✅ Rocky
+      ✅ Mrs. Tweedy
+      ✅ Mr. Tweedy
+      ✅ Fowler
+      ✅ Nick
+      ✅ Fetcher
+      ✅ Babs
+      ✅ Bunty
+      ✅ Mac
+      ✅ Chickens
+   📊 Images: 11 found, 34 missed
+[83/942]
+
+📺 Road to El Dorado
+   TMDB: 10905 (movie)
+   📡 Fetching TMDB credits... 29 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 37
+[84/942]
+
+📺 Spirit Stallion of the Cimarron
+   TMDB: 11024 (movie)
+   📡 Fetching TMDB credits... 47 actor photos
+   📖 Finding Fandom wiki... ✅ spiritstallionofthecimarron/Spirit:_Stallion_of_the_Cimarron (25 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 66
+[85/942]
+
+📺 Shark Tale
+   TMDB: 11235 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ sharktale/Shark_Tale (56 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 58
+   🎨 Fetching character images...
+      ✅ Oscar
+      ✅ Don Lino
+      ❌ angelfish
+      ✅ Lenny
+      ✅ Lola
+      ✅ Sykes
+      ✅ Ernie and Bernie
+      ✅ Frankie
+      ❌ Luca
+      ✅ Don Feinberg
+      ❌ Today
+      ✅ Crazy Joe
+      ✅ Mrs. Sanchez
+   📊 Images: 10 found, 48 missed
+[86/942]
+
+📺 Madagascar
+   TMDB: 953 (movie)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Madagascar (31 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 21
+   🎨 Fetching character images...
+      ✅ Alex
+      ✅ Marty
+      ✅ Melman
+      ✅ Gloria
+      ✅ King Julien
+      ✅ Maurice
+      ✅ Mort
+      ✅ Skipper
+      ✅ Kowalski
+      ✅ Rico
+      ✅ Private
+      ✅ Mason
+      ✅ Fossa
+      ✅ Nana
+   📊 Images: 14 found, 7 missed
+[87/942]
+
+📺 Over the Hedge
+   TMDB: 13972 (movie)
+   📡 Fetching TMDB credits... 21 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Over_the_Hedge (33 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 46
+   🎨 Fetching character images...
+      ✅ R.J.
+      ✅ Verne
+      ✅ Hammy
+      ✅ Stella
+      ✅ Gladys Sharp
+      ✅ Dwayne LaFontant
+      ✅ Vincent
+      ✅ Ozzie
+      ✅ Heather
+      ✅ Lou
+      ✅ Penny
+      ✅ Tiger
+      ✅ Nugent
+   📊 Images: 13 found, 33 missed
+[88/942]
+
+📺 Bee Movie
+   TMDB: 8355 (movie)
+   📡 Fetching TMDB credits... 38 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Bee_Movie (18 links)
+   👥 Fandom cast: 6 characters
+   👥 Total characters: 37
+   🎨 Fetching character images...
+      ✅ Barry B. Benson
+      ✅ Vanessa Bloome
+      ✅ Adam Flayman
+      ✅ Ken
+      ✅ Layton T. Montgomery
+      ✅ Mooseblood
+   📊 Images: 6 found, 31 missed
+[89/942]
+
+📺 Kung Fu Panda
+   TMDB: 9502 (movie)
+   📡 Fetching TMDB credits... 23 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Kung_Fu_Panda (24 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 26
+   🎨 Fetching character images...
+      ✅ Po
+      ✅ Tigress
+      ✅ Master Shifu
+      ✅ Tai Lung
+      ✅ Monkey
+      ✅ Viper
+      ✅ Mantis
+      ✅ Crane
+      ✅ Master Oogway
+      ✅ Mr. Ping
+      ✅ Zeng
+      ✅ Commander Vachir
+   📊 Images: 12 found, 14 missed
+[90/942]
+
+📺 Madagascar Escape 2 Africa
+   TMDB: 8373 (movie)
+   📡 Fetching TMDB credits... 72 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Madagascar:_Escape_2_Africa (34 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 100
+   🎨 Fetching character images...
+      ✅ Alex
+      ✅ Marty
+      ✅ Melman
+      ✅ Gloria
+      ✅ King Julien XIII
+      ✅ Maurice
+      ✅ Mort
+      ✅ Zuba
+      ✅ Makunga
+      ✅ Florrie
+      ✅ Moto Moto
+      ✅ Nana
+      ✅ Skipper
+      ✅ Kowalski
+      ✅ Private
+      ✅ Mason
+      ✅ Moon Child
+   📊 Images: 17 found, 83 missed
+[91/942]
+
+📺 Monsters vs Aliens
+   TMDB: 15512 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 27
+[92/942]
+
+📺 How to Train Your Dragon
+   TMDB: 10197 (movie)
+   📡 Fetching TMDB credits... 54 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/How_to_Train_Your_Dragon (24 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 118
+   🎨 Fetching character images...
+      ✅ Hiccup Haddock III
+      ✅ Astrid Hofferson
+      ✅ Stoick the Vast
+      ✅ Gobber the Belch
+      ✅ Snotlout Jorgenson
+      ✅ Fishlegs Ingerman
+      ✅ Tuffnut Thorston
+      ✅ Ruffnut Thorston
+      ✅ Spitelout Jorgenson
+   📊 Images: 9 found, 109 missed
+[93/942]
+
+📺 Megamind
+   TMDB: 45243 (movie)
+   📡 Fetching TMDB credits... 35 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Megamind_(film) (17 links)
+   👥 Fandom cast: 8 characters
+   👥 Total characters: 58
+   🎨 Fetching character images...
+      ✅ Megamind
+      ✅ Metro Man/Music Man
+      ✅ Roxanne "Roxie" Ritchi
+      ✅ Minion
+      ✅ Hal Stewart/Tighten
+      ✅ The Warden
+      ✅ Bernard
+      ✅ Lord Scott
+   📊 Images: 8 found, 50 missed
+[94/942]
+
+📺 Kung Fu Panda 2
+   TMDB: 49444 (movie)
+   📡 Fetching TMDB credits... 26 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Kung_Fu_Panda_2 (28 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 35
+   🎨 Fetching character images...
+      ✅ Po
+      ✅ Tigress
+      ✅ Shifu
+      ✅ Lord Shen
+      ✅ Monkey
+      ✅ Viper
+      ✅ Mantis
+      ✅ Crane
+      ✅ Mr. Ping
+      ✅ Boss Wolf
+      ✅ Soothsayer
+      ✅ Storming Ox
+      ✅ Croc
+      ✅ Thundering Rhino
+      ✅ Li Shan
+   📊 Images: 15 found, 20 missed
+[95/942]
+
+📺 Puss in Boots
+   TMDB: 82703 (movie)
+   📡 Fetching TMDB credits... 57 actor photos
+   📖 Finding Fandom wiki... ✅ pussinboots/Puss_in_Boots_(film) (20 links)
+   👥 Fandom cast: 7 characters
+   👥 Total characters: 40
+   🎨 Fetching character images...
+      ✅ Puss in Boots
+      ❌ Tuxedo cat
+      ✅ Humpty Dumpty
+      ✅ Jack and Jill
+      ✅ Imelda
+      ❌ Giuseppe
+      ❌ Andy Beanstalk
+   📊 Images: 4 found, 36 missed
+[96/942]
+
+📺 Madagascar 3 Europes Most Wanted
+   TMDB: 80321 (movie)
+   📡 Fetching TMDB credits... 23 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 25
+[97/942]
+
+📺 Rise of the Guardians
+   TMDB: 81188 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ riseoftheguardians/Rise_of_the_Guardians (13 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 21
+[98/942]
+
+📺 The Croods
+   TMDB: 49519 (movie)
+   📡 Fetching TMDB credits... 8 actor photos
+   📖 Finding Fandom wiki... ✅ the-croods/The_Croods (19 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 9
+   🎨 Fetching character images...
+      ✅ Eep Crood
+      ✅ Guy
+      ✅ Grug Crood
+      ✅ Thunk Crood
+      ✅ Ugga Crood
+      ✅ Gran
+      ✅ Chunky
+      ✅ Belt
+      ✅ Sandy Crood
+   📊 Images: 9 found, 0 missed
+[99/942]
+
+📺 Turbo
+   TMDB: 49013 (movie)
+   📡 Fetching TMDB credits... 42 actor photos
+   📖 Finding Fandom wiki... ✅ turbo/Turbo_(film) (290 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 39
+[100/942]
+
+📺 Mr Peabody and Sherman
+   TMDB: 109212 (movie)
+   📡 Fetching TMDB credits... 18 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 23
+[101/942]
+
+📺 How to Train Your Dragon 2
+   TMDB: 79952 (movie)
+   📡 Fetching TMDB credits... 7 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/How_to_Train_Your_Dragon_2 (24 links)
+   👥 Fandom cast: 8 characters
+   👥 Total characters: 16
+   🎨 Fetching character images...
+      ✅ Hiccup Haddock III
+      ✅ Astrid Hofferson
+      ✅ Gobber the Belch
+      ✅ Snotlout Jorgenson
+      ✅ Fishlegs Ingerman
+      ✅ Ruffnut Thorston
+      ✅ Tuffnut Thorston
+      ✅ Drago Bludvist
+   📊 Images: 8 found, 8 missed
+[102/942]
+
+📺 Penguins of Madagascar
+   TMDB: 211672 (movie)
+   📡 Fetching TMDB credits... 40 actor photos
+   📖 Finding Fandom wiki... ✅ penguins-of-madagascar/Penguins_of_Madagascar (22 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 25
+   🎨 Fetching character images...
+      ✅ Skipper
+      ✅ Kowalski
+      ✅ Private
+      ✅ Rico
+      ✅ Dave
+      ✅ Short Fuse
+      ✅ Eva
+      ✅ Corporal
+      ✅ Mort
+      ✅ King Julien
+   📊 Images: 10 found, 15 missed
+[103/942]
+
+📺 Kung Fu Panda 3
+   TMDB: 140300 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Kung_Fu_Panda_3 (29 links)
+   👥 Fandom cast: 16 characters
+   👥 Total characters: 40
+   🎨 Fetching character images...
+      ✅ Po
+      ✅ Li Shan
+      ✅ Tigress
+      ✅ Shifu
+      ✅ Kai
+      ✅ Monkey
+      ✅ Viper
+      ✅ Mantis
+      ✅ Crane
+      ✅ Mr. Ping
+      ✅ Oogway
+      ✅ Mei Mei
+      ✅ Bear
+      ✅ Croc
+      ✅ Grandma Panda
+      ✅ Donkey
+   📊 Images: 16 found, 24 missed
+[104/942]
+
+📺 The Boss Baby
+   TMDB: 295693 (movie)
+   📡 Fetching TMDB credits... 17 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/The_Boss_Baby (22 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ✅ Tim Templeton
+      ✅ Theodore Templeton
+      ✅ Ted Templeton
+      ✅ Janice Templeton
+      ✅ Francis E. Francis
+      ✅ Eugene Francis
+      ✅ Staci
+      ✅ Jimbo
+      ✅ The Triplets
+      ✅ Tabitha Templeton
+   📊 Images: 10 found, 17 missed
+[105/942]
+
+📺 How to Train Your Dragon The Hidden World
+   TMDB: 166428 (movie)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 20
+[106/942]
+
+📺 Abominable
+   TMDB: 530393 (movie)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Abominable (18 links)
+   👥 Fandom cast: 7 characters
+   👥 Total characters: 8
+   🎨 Fetching character images...
+      ✅ Yi
+      ✅ Dr. Zara
+      ✅ Peng
+      ✅ Burnish
+      ✅ Jin
+      ✅ Nai Nai
+      ✅ Everest
+   📊 Images: 7 found, 1 missed
+[107/942]
+
+📺 Trolls World Tour
+   TMDB: 579583 (movie)
+   📡 Fetching TMDB credits... 45 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Trolls_World_Tour (43 links)
+   👥 Fandom cast: 22 characters
+   👥 Total characters: 82
+   🎨 Fetching character images...
+      ✅ Queen Poppy
+      ✅ Branch
+      ✅ Cooper
+      ✅ Biggie
+      ✅ Guy Diamond
+      ✅ Hickory
+      ✅ Darnell
+      ✅ Delta Dawn
+      ✅ Queen Essence
+      ✅ King Quincy
+      ✅ Trollzart
+      ✅ King Trollex
+      ✅ King Thrash
+      ✅ Tiny Diamond
+      ✅ Queen Barb
+      ✅ Mr. Dinkles
+      ✅ Riff
+      ✅ Tresillo
+      ✅ Legsly
+      ✅ King Peppy
+      ✅ Bridget
+      ✅ King Gristle Jr.
+   📊 Images: 22 found, 60 missed
+[108/942]
+
+📺 The Croods A New Age
+   TMDB: 529203 (movie)
+   📡 Fetching TMDB credits... 16 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 17
+[109/942]
+
+📺 The Boss Baby Family Business
+   TMDB: 593643 (movie)
+   📡 Fetching TMDB credits... 34 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 34
+[110/942]
+
+📺 Puss in Boots The Last Wish
+   TMDB: 315162 (movie)
+   📡 Fetching TMDB credits... 28 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 29
+[111/942]
+
+📺 The Bad Guys
+   TMDB: 725201 (movie)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ✅ the-bad-guys/The_Bad_Guys_(film) (25 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 87
+   🎨 Fetching character images...
+      ✅ Diane Foxington
+      ✅ Professor Marmalade
+      ✅ Ms. Tarantula
+      ❌ Maureen
+      ✅ Tiffany Fluffit
+      ❌ Old Lady
+      ❌ Museum Announcer
+      ❌ Delivery Driver
+      ❌ Prison Guard 1
+      ❌ Prison Guard 2
+      ❌ Scientist
+      ❌ Museum Guest 2
+      ❌ Prison Guard 3
+   📊 Images: 4 found, 83 missed
+[112/942]
+
+📺 Kung Fu Panda 4
+   TMDB: 1014504 (movie)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Kung_Fu_Panda_4 (25 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 11
+   🎨 Fetching character images...
+      ✅ Po
+      ✅ Zhen
+      ✅ The Chameleon
+      ✅ Li Shan
+      ✅ Mr. Ping
+      ✅ Shifu
+      ✅ Tai Lung
+      ✅ Han
+      ❌ Granny Boar
+      ❌ Captain Fish
+      ✅ Mantis
+   📊 Images: 9 found, 2 missed
+[113/942]
+
+📺 Trolls Band Together
+   TMDB: 1176166 (movie)
+   📡 Fetching TMDB credits... 12 actor photos
+   📖 Finding Fandom wiki... ✅ dreamworks/Trolls_Band_Together (43 links)
+   👥 Fandom cast: 20 characters
+   👥 Total characters: 38
+   🎨 Fetching character images...
+      ✅ Poppy
+      ✅ Branch
+      ✅ Floyd
+      ✅ John Dory
+      ✅ Clay
+      ✅ Spruce
+      ✅ Viva
+      ✅ Veneer
+      ✅ Velvet
+      ✅ Bridget
+      ✅ Crimp
+      ✅ Gristle
+      ✅ Tiny Diamond
+      ✅ Cooper
+      ✅ Darnell
+      ✅ Guy Diamond
+      ✅ King Peppy
+      ✅ Biggie
+      ✅ Mr. Dinkles
+      ✅ Grandma Rosiepuff
+   📊 Images: 20 found, 18 missed
+[114/942]
+
+📺 Despicable Me
+   TMDB: 20352 (movie)
+   📡 Fetching TMDB credits... 29 actor photos
+   📖 Finding Fandom wiki... ✅ despicableme/Despicable_Me_(film) (41 links)
+   👥 Fandom cast: 5 characters
+   👥 Total characters: 18
+   🎨 Fetching character images...
+      ✅ Jerry
+      ✅ Carnival Barker
+      ✅ Fred&nbsp;McDade
+      ✅ Justin
+      ✅ anchorman
+   📊 Images: 5 found, 13 missed
+[115/942]
+
+📺 Despicable Me 2
+   TMDB: 93456 (movie)
+   📡 Fetching TMDB credits... 39 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 17
+[116/942]
+
+📺 The Lorax
+   TMDB: 82693 (movie)
+   📡 Fetching TMDB credits... 44 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 63
+[117/942]
+
+📺 Despicable Me 3
+   TMDB: 324852 (movie)
+   📡 Fetching TMDB credits... 36 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 21
+[118/942]
+
+📺 Sing
+   TMDB: 335797 (movie)
+   📡 Fetching TMDB credits... 47 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 30
+[119/942]
+
+📺 The Secret Life of Pets 2
+   TMDB: 447404 (movie)
+   📡 Fetching TMDB credits... 25 actor photos
+   📖 Finding Fandom wiki... ✅ the-secret-life-of-pets-2/The_Secret_Life_of_Pets_2 (49 links)
+   👥 Fandom cast: 21 characters
+   👥 Total characters: 46
+   🎨 Fetching character images...
+      ✅ Max
+      ✅ Snowball
+      ✅ Rooster
+      ✅ Duke
+      ✅ Gidget
+      ✅ Daisy
+      ✅ Chloe
+      ✅ Pops
+      ✅ Mel
+      ✅ Buddy
+      ✅ Norman
+      ✅ Katie
+      ✅ Chuck
+      ✅ Liam
+      ✅ Sergei
+      ✅ Cotton
+      ✅ Molly
+      ✅ Sweetpea
+      ✅ Princess
+      ✅ Myron
+      ✅ Hu
+   📊 Images: 21 found, 25 missed
+[120/942]
+
+📺 Minions The Rise of Gru
+   TMDB: 438148 (movie)
+   📡 Fetching TMDB credits... 51 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 20
+[121/942]
+
+📺 Sing 2
+   TMDB: 813258 (movie)
+   📡 Fetching TMDB credits... 5 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 5
+[122/942]
+
+📺 The Super Mario Bros Movie
+   TMDB: 594767 (movie)
+   📡 Fetching TMDB credits... 47 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 51
+[123/942]
+
+📺 Wish Dragon
+   TMDB: 618353 (movie)
+   📡 Fetching TMDB credits... 25 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 26
+[124/942]
+
+📺 Cloudy with a Chance of Meatballs
+   TMDB: 22803 (movie)
+   📡 Fetching TMDB credits... 37 actor photos
+   📖 Finding Fandom wiki... ✅ cloudywithachanceofmeatballs/Cloudy_with_a_Chance_of_Meatballs_(film) (16 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 76
+   🎨 Fetching character images...
+      ✅ Flint Lockwood
+      ✅ Sam Sparks
+      ✅ Steve
+      ✅ Tim Lockwood
+      ✅ Mayor Shelbourne
+      ✅ Brent McHale
+      ✅ Cal
+      ✅ Manny
+      ✅ Patrick Patrickson
+      ✅ Fran Lockwood
+      ✅ Joe Towne
+   📊 Images: 11 found, 65 missed
+[125/942]
+
+📺 The Pirates Band of Misfits
+   TMDB: 68726 (movie)
+   📡 Fetching TMDB credits... 46 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 53
+[126/942]
+
+📺 The Smurfs
+   TMDB: 33580 (movie)
+   📡 Fetching TMDB credits... 14 actor photos
+   📖 Finding Fandom wiki... ✅ nickelodeon/The_Smurfs (21 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ❌ Smurfette
+      ❌ Papa Smurf
+      ❌ Brainy Smurf
+      ❌ Gargamel
+      ❌ Greedy Smurf
+      ❌ Clumsy Smurf
+      ❌ Vanity Smurf
+      ❌ Handy Smurf
+      ❌ Hefty Smurf
+      ❌ Jokey Smurf
+      ❌ Azreal
+      ❌ Wild Smurf
+   📊 Images: 0 found, 27 missed
+[127/942]
+
+📺 Hotel Transylvania
+   TMDB: 76600 (movie)
+   📡 Fetching TMDB credits... 44 actor photos
+   📖 Finding Fandom wiki... ✅ hoteltransylvania/Hotel_Transylvania (54 links)
+   👥 Fandom cast: 18 characters
+   👥 Total characters: 75
+   🎨 Fetching character images...
+      ✅ Dracula
+      ✅ Jonathan
+      ✅ Mavis
+      ✅ Winnie
+      ✅ Frank/Frankenstein
+      ✅ Eunice
+      ✅ Wayne
+      ✅ Wanda
+      ✅ Griffin the Invisible Man
+      ✅ Murray
+      ✅ Quasimodo
+      ✅ Mavis' Shrunken Head
+      ✅ Suits of Armor
+      ✅ Martha
+      ✅ Skeleton
+      ✅ Mr. Ghouligan the Zombie
+      ✅ Gremlin
+      ✅ Shrunken Heads
+   📊 Images: 18 found, 57 missed
+[128/942]
+
+📺 Open Season
+   TMDB: 9283 (movie)
+   📡 Fetching TMDB credits... 23 actor photos
+   📖 Finding Fandom wiki... ✅ openseason/Open_Season_(film) (50 links)
+   👥 Fandom cast: 19 characters
+   👥 Total characters: 57
+   🎨 Fetching character images...
+      ✅ Boog
+      ✅ Elliot
+      ✅ Shaw
+      ✅ Beth
+      ✅ Giselle
+      ✅ Gordy
+      ✅ Ian
+      ✅ McSquizzy
+      ✅ Mr. Weenie
+      ✅ Bobbie
+      ✅ Serge
+      ✅ Buddy
+      ✅ Reilly
+      ✅ O'Toole
+      ✅ Rosie
+      ✅ Maria
+      ❌ Hunter
+      ❌ Beavers
+      ✅ Jackrabbits
+   📊 Images: 17 found, 40 missed
+[129/942]
+
+📺 Planet 51
+   TMDB: 21714 (movie)
+   📡 Fetching TMDB credits... 2 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 28
+[130/942]
+
+📺 Alpha and Omega
+   TMDB: 44265 (movie)
+   📡 Fetching TMDB credits... 11 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 13
+[131/942]
+
+📺 Hotel Transylvania 2
+   TMDB: 159824 (movie)
+   📡 Fetching TMDB credits... 64 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 35
+[132/942]
+
+📺 Storks
+   TMDB: 278927 (movie)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ✅ storks/Storks (26 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 41
+   🎨 Fetching character images...
+      ✅ Junior
+      ✅ Tulip
+      ✅ Hunter
+      ✅ Sarah Gardner
+      ✅ Henry Gardner
+      ❌ Nate Gardner
+      ❌ Alpha Wolf
+      ❌ Beta Wolf
+      ✅ Jasper
+      ✅ Dougland
+      ✅ Pigeon Toady
+      ✅ Dock Security 1
+   📊 Images: 9 found, 32 missed
+[133/942]
+
+📺 Hotel Transylvania 3
+   TMDB: 374720 (movie)
+   📡 Fetching TMDB credits... 48 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 50
+[134/942]
+
+📺 The Angry Birds Movie
+   TMDB: 323368 (movie)
+   📡 Fetching TMDB credits... 19 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 28
+[135/942]
+
+📺 The Angry Birds Movie 2
+   TMDB: 454640 (movie)
+   📡 Fetching TMDB credits... 59 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 49
+[136/942]
+
+📺 Spider-Man Into the Spider-Verse
+   TMDB: 324857 (movie)
+   📡 Fetching TMDB credits... 66 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 36
+[137/942]
+
+📺 Spider-Man Across the Spider-Verse
+   TMDB: 569094 (movie)
+   📡 Fetching TMDB credits... 80 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 40
+[138/942]
+
+📺 The Mitchells vs the Machines
+   TMDB: 501979 (movie)
+   📡 Fetching TMDB credits... 38 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 78
+[139/942]
+
+📺 Flushed Away
+   TMDB: 13558 (movie)
+   📡 Fetching TMDB credits... 1 actor photos
+   📖 Finding Fandom wiki... ✅ flushedaway/Flushed_Away (28 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 16
+   🎨 Fetching character images...
+      ✅ Roddy St. James
+      ✅ Rita Malone
+      ✅ The Toad
+      ✅ Spike
+      ✅ Whitey
+      ✅ Le Frog
+      ✅ Sid
+      ✅ Fat Barry
+      ✅ Ladykiller
+      ✅ Thimblenose Ted
+      ✅ Mr. Malone
+      ❌ Brandy Malone
+      ✅ Granny Malone
+      ✅ Shocky Malone
+   📊 Images: 13 found, 3 missed
+[140/942]
+
+📺 Shaun the Sheep Movie
+   TMDB: 267935 (movie)
+   📡 Fetching TMDB credits... 31 actor photos
+   📖 Finding Fandom wiki... ✅ shaunthesheep/Shaun_the_Sheep_Movie (34 links)
+   👥 Fandom cast: 9 characters
+   👥 Total characters: 42
+   🎨 Fetching character images...
+      ✅ Shaun
+      ✅ Bitzer
+      ✅ Trumper
+      ✅ Timmy's Mother
+      ✅ Shirley
+      ✅ Slip
+      ✅ The Twins
+      ✅ Hazel
+      ✅ Nuts
+   📊 Images: 9 found, 33 missed
+[141/942]
+
+📺 Early Man
+   TMDB: 399327 (movie)
+   📡 Fetching TMDB credits... 6 actor photos
+   📖 Finding Fandom wiki... ✅ early-man/Early_Man (35 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 25
+   🎨 Fetching character images...
+      ✅ Dug
+      ✅ Lord Nooth
+      ✅ Goona
+      ✅ Hognob
+      ✅ Chief Bobnar
+      ❌ Dino
+      ❌ Brian and Bryan
+      ❌ Treebor
+      ❌ Magma
+      ❌ Asbo
+      ❌ Barry
+      ❌ Gravelle
+      ❌ Grubup
+      ❌ Eemak
+   📊 Images: 5 found, 20 missed
+[142/942]
+
+📺 Chicken Run Dawn of the Nugget
+   TMDB: 822847 (movie)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 0
+[143/942]
+
+📺 Ernest and Celestine
+   TMDB: 83717 (movie)
+   📡 Fetching TMDB credits... 4 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 13
+[144/942]
+
+📺 Triplets of Belleville
+   TMDB: 8392 (movie)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 15
+[145/942]
+
+📺 Persepolis
+   TMDB: 4254 (movie)
+   📡 Fetching TMDB credits... 29 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 37
+[146/942]
+
+📺 Waltz with Bashir
+   TMDB: 13516 (movie)
+   📡 Fetching TMDB credits... 11 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 27
+[147/942]
+
+📺 April and the Extraordinary World
+   TMDB: 264397 (movie)
+   📡 Fetching TMDB credits... 6 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 17
+[148/942]
+
+📺 The Rabbi's Cat
+   TMDB: 80279 (movie)
+   📡 Fetching TMDB credits... 8 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 12
+[149/942]
+
+📺 Wolfwalkers
+   TMDB: 500664 (movie)
+   📡 Fetching TMDB credits... 27 actor photos
+   📖 Finding Fandom wiki... ✅ wolfwalkers/Wolfwalkers (25 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 53
+   🎨 Fetching character images...
+      ✅ Robyn Goodfellowe
+      ✅ Mebh Óg MacTíre
+      ✅ Bill Goodfellowe
+      ✅ Lord Protector Oliver Cromwell
+      ✅ Móll MacTíre
+      ✅ Seán Óg
+      ✅ Stringy Woodcutter
+      ✅ Stumpy Woodcutter
+      ✅ Sheep Farmer
+      ✅ Bridget
+      ✅ Padraig
+      ✅ Fishmonger
+   📊 Images: 12 found, 41 missed
+[150/942]
+
+📺 The Breadwinner
+   TMDB: 404776 (movie)
+   📡 Fetching TMDB credits... 3 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 3
+[151/942]
+
+📺 Song of the Sea
+   TMDB: 218778 (movie)
+   📡 Fetching TMDB credits... 38 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 47
+[152/942]
+
+📺 Secret of Kells
+   TMDB: 22881 (movie)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 63
+[153/942]
+
+📺 The Red Turtle
+   TMDB: 361013 (movie)
+   📡 Fetching TMDB credits... 8 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 21
+[154/942]
+
+📺 Castle in the Sky
+   TMDB: 12429 (movie)
+   📡 Fetching TMDB credits... 25 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Castle_in_the_Sky (18 links)
+   👥 Fandom cast: 4 characters
+   👥 Total characters: 19
+   🎨 Fetching character images...
+      ✅ James Van Der Beek
+      ✅ Debi Derryberry
+      ❌ -
+      ❌ }
+   📊 Images: 2 found, 17 missed
+[155/942]
+
+📺 Grave of the Fireflies
+   TMDB: 12477 (movie)
+   📡 Fetching TMDB credits... 5 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Grave_of_the_Fireflies (73 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ✅ J. Robert Spencer
+      ❌ Rhoda Chrosite
+      ❌ Veronica Taylor
+      ❌ Amy Jones
+      ❌ Shannon Conley
+      ❌ Crispin Freeman
+      ❌ George Leaver
+      ❌ Nick Sullivan
+      ❌ Lucas Jaye
+      ❌ Luna Hamilton
+      ❌ Unknown
+   📊 Images: 1 found, 26 missed
+[156/942]
+
+📺 Kiki's Delivery Service
+   TMDB: 12434 (movie)
+   📡 Fetching TMDB credits... 15 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Kiki's_Delivery_Service (63 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ✅ Lisa Michelson
+      ✅ Janeane Garofalo
+      ✅ Kerrigan Mahan
+      ✅ Barbara Goodson
+      ❌ Alexandra Kenworthy
+      ❌ Eddie Frierson
+      ❌ Melanie MacQueen
+      ❌ Edie Mirman
+      ❌ John Dantona
+      ✅ Diane Michelle
+      ❌ Wendee Lee
+      ✅ Lara Cody
+      ❌ -
+   📊 Images: 6 found, 21 missed
+[157/942]
+
+📺 Only Yesterday
+   TMDB: 12432 (movie)
+   📡 Fetching TMDB credits... 19 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Only_Yesterday (67 links)
+   👥 Fandom cast: 22 characters
+   👥 Total characters: 41
+   🎨 Fetching character images...
+      ✅ Miki Imai
+      ✅ Toshiro Yanagiba
+      ❌ Mayumi Iizuka
+      ❌ Mei Oshitani
+      ❌ Megumi Komine
+      ❌ Yukiyo Takizawa
+      ❌ Jaden Betts
+      ❌ Gianella Thielmann
+      ❌ Michie Terada
+      ❌ Masahiro Itō
+      ❌ Yorie Yamashita
+      ❌ Yuki Minowa
+      ❌ Chie Kitagawa
+      ❌ Koji Goto
+      ❌ Sachiko Ishikawa
+      ❌ Masako Watanabe
+      ❌ Shin Itō
+      ❌ Hirozumi Sato
+      ❌ Ichiro Nagai
+      ❌ -
+      ❌ }
+      ❌ Takako Sendou
+   📊 Images: 2 found, 39 missed
+[158/942]
+
+📺 Pom Poko
+   TMDB: 12454 (movie)
+   📡 Fetching TMDB credits... 34 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Pom_Poko (93 links)
+   👥 Fandom cast: 19 characters
+   👥 Total characters: 66
+   🎨 Fetching character images...
+      ❌ Maurice LaMarche
+      ✅ Jonathan Taylor Thomas
+      ✅ Jillian Bowen
+      ✅ J.K. Simmons
+      ❌ Tress MacNeille
+      ✅ Clancy Brown
+      ❌ Jess Harnell
+      ❌ Andre Stojka
+      ❌ Wally Kurth
+      ❌ Marc Dontana
+      ❌ John DiMaggio
+      ❌ Brian Posehn
+      ❌ Russi Taylor
+      ❌ David Oliver Cohen
+      ❌ Olivia d'Abo
+      ❌ Mark Moseley
+      ❌ Philece Sampler
+      ❌ -
+      ❌ rowspan="2"
+   📊 Images: 4 found, 62 missed
+[159/942]
+
+📺 Whisper of the Heart
+   TMDB: 12437 (movie)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Whisper_of_the_Heart (60 links)
+   👥 Fandom cast: 20 characters
+   👥 Total characters: 42
+   🎨 Fetching character images...
+      ✅ Brittany Snow
+      ✅ David Gallagher
+      ❌ James Sikking
+      ❌ Jean Smart
+      ✅ Cary Elwes
+      ❌ Harold Gould
+      ✅ Ashley Tisdale
+      ❌ Martin Spanjers
+      ❌ Vicki Davis
+      ❌ Mika Boorem
+      ❌ Abigail Mavity
+      ❌ Corey Burton
+      ❌ Daamen Krall
+      ✅ Walker Edmiston
+      ❌ Grace Rolek
+      ✅ Scott McAfee
+      ❌ Bradley Pierce
+      ❌ Jeff Bennett
+      ❌ -
+      ❌ }
+   📊 Images: 6 found, 36 missed
+[160/942]
+
+📺 Princess Mononoke
+   TMDB: 128 (movie)
+   📡 Fetching TMDB credits... 23 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Princess_Mononoke (71 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 32
+   🎨 Fetching character images...
+      ✅ Billy Crudup
+      ✅ Claire Danes
+      ✅ Minnie Driver
+      ✅ Billy Bob Thornton
+      ❌ John DeMita
+      ❌ John DiMaggio
+      ❌ Gillian Anderson
+      ✅ Debi Derryberry
+      ❌ Keith David
+      ❌ Jada Pinkett Smith
+      ❌ Tress MacNeille
+      ❌ -
+   📊 Images: 5 found, 27 missed
+[161/942]
+
+📺 My Neighbors the Yamadas
+   TMDB: 13022 (movie)
+   📡 Fetching TMDB credits... 14 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/My_Neighbors_the_Yamadas (49 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 27
+   🎨 Fetching character images...
+      ❌ Yukiji Asaoka
+      ✅ Toru Masuoka
+      ❌ Masako Araki
+      ❌ Hayato Isobata
+      ✅ Naomi Uno
+      ❌ Edie McClurg
+      ❌ David Ogden Stiers
+      ❌ Dixie Carter
+      ✅ Melissa Disney
+      ❌ Billy West
+      ❌ Trenton Rogers
+      ❌ -
+   📊 Images: 3 found, 24 missed
+[162/942]
+
+📺 Spirited Away
+   TMDB: 129 (movie)
+   📡 Fetching TMDB credits... 39 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Spirited_Away (69 links)
+   👥 Fandom cast: 15 characters
+   👥 Total characters: 30
+   🎨 Fetching character images...
+      ✅ Daveigh Chase
+      ✅ Jason Marsden
+      ❌ Michael Chiklis
+      ❌ Lauren Holly
+      ❌ Tara Strong
+      ❌ Susan Egan
+      ❌ Rodger Bumpass
+      ❌ Jim Ward
+      ❌ Paul Eiding
+      ❌ John Ratzenberger
+      ❌ David Ogden Stiers
+      ❌ Jack Angel
+      ❌ Mickie McGowan
+      ❌ Phil Proctor
+      ❌ -
+   📊 Images: 2 found, 28 missed
+[163/942]
+
+📺 The Cat Returns
+   TMDB: 12441 (movie)
+   📡 Fetching TMDB credits... 4 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/The_Cat_Returns (66 links)
+   👥 Fandom cast: 17 characters
+   👥 Total characters: 21
+   🎨 Fetching character images...
+      ✅ Chizuru Ikewaki
+      ✅ Cary Elwes
+      ❌ Peter Boyle
+      ❌ Elliott Gould
+      ❌ Andrew Bevis
+      ❌ Judy Greer
+      ❌ Tim Curry
+      ❌ Kristen Bell
+      ❌ Andy Richter
+      ❌ René Auberjonois
+      ❌ Kristine Sutherland
+      ❌ Robert Clotworthy
+      ❌ Erin Chambers
+      ❌ Bradley Pierce
+      ❌ Mona Marshall
+      ❌ Courtnee Draper
+      ❌ -
+   📊 Images: 2 found, 19 missed
+[164/942]
+
+📺 Howl's Moving Castle
+   TMDB: 4935 (movie)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ✅ disney/Howl's_Moving_Castle (13 links)
+   👥 Fandom cast: 4 characters
+   👥 Total characters: 14
+   🎨 Fetching character images...
+      ❌ young
+      ❌ -
+      ❌ Ryūnosuke Kamiki
+      ❌ Haruko Katō
+   📊 Images: 0 found, 14 missed
+[165/942]
+
+📺 Tales from Earthsea
+   TMDB: 13013 (movie)
+   📡 Fetching TMDB credits... 19 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/Tales_from_Earthsea (59 links)
+   👥 Fandom cast: 10 characters
+   👥 Total characters: 37
+   🎨 Fetching character images...
+      ❌ Matt Levin
+      ❌ Blaire Restaneo
+      ✅ Timothy Dalton
+      ❌ Willem Dafoe
+      ❌ Cheech Marin
+      ✅ Mariska Hargitay
+      ❌ Susanne Blakeslee
+      ❌ Brian George
+      ❌ Kevin Michael Richardson
+      ❌ -
+   📊 Images: 2 found, 35 missed
+[166/942]
+
+📺 The Secret World of Arrietty
+   TMDB: 52371 (movie)
+   📡 Fetching TMDB credits... 11 actor photos
+   📖 Finding Fandom wiki... ✅ disney/The_Secret_World_of_Arrietty (11 links)
+   👥 Fandom cast: 5 characters
+   👥 Total characters: 23
+   🎨 Fetching character images...
+      ✅ Bridgit Mendler
+      ✅ David Henrie
+      ✅ Amy Poehler
+      ❌ -
+      ❌ }
+   📊 Images: 3 found, 20 missed
+[167/942]
+
+📺 From Up on Poppy Hill
+   TMDB: 49938 (movie)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/From_Up_on_Poppy_Hill (33 links)
+   👥 Fandom cast: 2 characters
+   👥 Total characters: 33
+   🎨 Fetching character images...
+      ❌ -
+      ❌ }
+   📊 Images: 0 found, 33 missed
+[168/942]
+
+📺 The Wind Rises
+   TMDB: 149870 (movie)
+   📡 Fetching TMDB credits... 14 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/The_Wind_Rises (57 links)
+   👥 Fandom cast: 12 characters
+   👥 Total characters: 26
+   🎨 Fetching character images...
+      ❌ Hideaki Anno
+      ❌ John Krasinski
+      ❌ Miori Takimoto
+      ❌ Martin Short
+      ❌ Stanley Tucci
+      ❌ Mandy Patinkin
+      ❌ Mirai Shida
+      ❌ Werner Herzog
+      ❌ Jennifer Grey
+      ❌ William H. Macy
+      ❌ Edie Mirman
+      ❌ -
+   📊 Images: 0 found, 26 missed
+[169/942]
+
+📺 The Tale of the Princess Kaguya
+   TMDB: 149871 (movie)
+   📡 Fetching TMDB credits... 18 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/The_Tale_of_the_Princess_Kaguya (55 links)
+   👥 Fandom cast: 13 characters
+   👥 Total characters: 25
+   🎨 Fetching character images...
+      ❌ Chloë Grace Moretz
+      ❌ Kengo Kora
+      ❌ Takeo Chii
+      ✅ Nobuko Miyamoto
+      ❌ Lucy Liu
+      ✅ Tomoko Tabata
+      ❌ Tatekawa Shinosuke
+      ❌ James Marsden
+      ❌ Oliver Platt
+      ❌ Daniel Dae Kim
+      ❌ Dean Cain
+      ❌ Beau Bridges
+      ❌ John Cho
+   📊 Images: 2 found, 23 missed
+[170/942]
+
+📺 When Marnie Was There
+   TMDB: 205347 (movie)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/When_Marnie_Was_There (52 links)
+   👥 Fandom cast: 11 characters
+   👥 Total characters: 11
+   🎨 Fetching character images...
+      ❌ Hailee Steinfeld
+      ✅ Kasumi Arimura
+      ❌ Ava Acres
+      ❌ Hitomi Kuroki
+      ❌ Geena Davis
+      ❌ Grey Griffin
+      ❌ Ellen Burstyn
+      ❌ Fred Tatasciore
+      ❌ Raini Rodriguez
+      ❌ Bob Bergen
+      ❌ -
+   📊 Images: 1 found, 10 missed
+[171/942]
+
+📺 Mirai
+   TMDB: 434873 (movie)
+   📡 Fetching TMDB credits... 12 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 12
+[172/942]
+
+📺 The Boy and the Heron
+   TMDB: 934632 (movie)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ✅ ghibli/The_Boy_and_the_Heron (43 links)
+   👥 Fandom cast: 14 characters
+   👥 Total characters: 71
+   🎨 Fetching character images...
+      ✅ Luca Padovan
+      ❌ Robert Pattinson
+      ❌ Karen Fukuhara
+      ✅ Gemma Chan
+      ✅ Christian Bale
+      ❌ Florence Pugh
+      ✅ Dave Bautista
+      ✅ Willem Dafoe
+      ❌ Denise Pickering
+      ❌ Barbara Rosenblat
+      ✅ Barbara Goodson
+      ❌ Melora Harte
+      ❌ -
+      ❌ Unknown
+   📊 Images: 6 found, 65 missed
+[173/942]
+
+📺 Dragon Ball Z
+   TMDB: 12971 (tv)
+   📡 Fetching TMDB credits... 52 actor photos
+   📖 Finding Fandom wiki... ✅ cartoonnetwork/Dragon_Ball_Z (24 links)
+   👥 Fandom cast: 1 characters
+   👥 Total characters: 55
+   🎨 Fetching character images...
+      ❌ Dragon Ball Kai
+   📊 Images: 0 found, 55 missed
+[174/942]
+
+📺 Naruto
+   TMDB: 46260 (tv)
+   📡 Fetching TMDB credits... 41 actor photos
+   📖 Finding Fandom wiki... ✅ cartoonnetwork/Naruto (11 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 41
+[175/942]
+
+📺 One Piece
+   TMDB: 37854 (tv)
+   📡 Fetching TMDB credits... 242 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 241
+[176/942]
+
+📺 Bleach
+   TMDB: 30984 (tv)
+   📡 Fetching TMDB credits... 137 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 137
+[177/942]
+
+📺 Attack on Titan
+   TMDB: 1429 (tv)
+   📡 Fetching TMDB credits... 221 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 221
+[178/942]
+
+📺 Death Note
+   TMDB: 13916 (tv)
+   📡 Fetching TMDB credits... 34 actor photos
+   📖 Finding Fandom wiki... ✅ death-note/Death_Note_(anime) (15 links)
+   👥 Fandom cast: 0 characters
+   👥 Total characters: 34
+[179/942]
+
+📺 Fullmetal Alchemist Brotherhood
+   TMDB: 31911 (tv)
+   📡 Fetching TMDB credits... 134 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 134
+[180/942]
+
+📺 Sword Art Online
+   TMDB: 45782 (tv)
+   📡 Fetching TMDB credits... 243 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 269
+[181/942]
+
+📺 My Hero Academia
+   TMDB: 65930 (tv)
+   📡 Fetching TMDB credits... 116 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 116
+[182/942]
+
+📺 Demon Slayer
+   TMDB: 85937 (tv)
+   📡 Fetching TMDB credits... 254 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 137
+[183/942]
+
+📺 Jujutsu Kaisen
+   TMDB: 95479 (tv)
+   📡 Fetching TMDB credits... 253 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 254
+[184/942]
+
+📺 Hunter x Hunter
+   TMDB: 46298 (tv)
+   📡 Fetching TMDB credits... 113 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 115
+[185/942]
+
+📺 Cowboy Bebop
+   TMDB: 30991 (tv)
+   📡 Fetching TMDB credits... 98 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 112
+[186/942]
+
+📺 Trigun
+   TMDB: 31572 (tv)
+   📡 Fetching TMDB credits... 20 actor photos
+   📖 Finding Fandom wiki... ✅ trigun/Trigun_(anime) (7 links)
+   👥 Fandom cast: 7 characters
+   👥 Total characters: 29
+   🎨 Fetching character images...
+      ✅ Vash the Stampede
+      ✅ Meryl Stryfe
+      ✅ Nicholas D. Wolfwood
+      ✅ Milly Thompson
+      ✅ Rem Saverem
+      ✅ Legato Bluesummers
+      ✅ Millions Knives
+   📊 Images: 7 found, 22 missed
+[187/942]
+
+📺 Inuyasha
+   TMDB: 30983 (tv)
+   📡 Fetching TMDB credits... 22 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 21
+[188/942]
+
+📺 Yu Yu Hakusho
+   TMDB: 33144 (tv)
+   📡 Fetching TMDB credits... 13 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 6
+[189/942]
+
+📺 Sailor Moon
+   TMDB: 30073 (tv)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 0
+[190/942]
+
+📺 CardCaptor Sakura
+   TMDB: 30892 (tv)
+   📡 Fetching TMDB credits... 10 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 10
+[191/942]
+
+📺 Ouran High School Host Club
+   TMDB: 31616 (tv)
+   📡 Fetching TMDB credits... 69 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 8
+[192/942]
+
+📺 Fruits Basket
+   TMDB: 45887 (tv)
+   📡 Fetching TMDB credits... 0 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 0
+[193/942]
+
+📺 Fairy Tail
+   TMDB: 46261 (tv)
+   📡 Fetching TMDB credits... 50 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 50
+[194/942]
+
+📺 Naruto Shippuden
+   TMDB: 1489 (tv)
+   📡 Fetching TMDB credits... 2385 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 2684
+[195/942]
+
+📺 Dragon Ball Super
+   TMDB: 62715 (tv)
+   📡 Fetching TMDB credits... 30 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 30
+[196/942]
+
+📺 One Punch Man
+   TMDB: 63926 (tv)
+   📡 Fetching TMDB credits... 39 actor photos
+   📖 Finding Fandom wiki... ⚠️  not found — using TMDB only
+   👥 Total characters: 39
+[197/942]
+
+📺 Mob Psycho 100
+   TMDB: 65513 (tv)
+   📡 Fetching TMDB credits... 7 actor photos
+   📖 Finding Fandom wiki...
