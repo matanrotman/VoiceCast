@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VoiceCast — Database Verification</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f0f0f; color: #e0e0e0; }
+
+  .header { background: #1a1a2e; padding: 20px 24px; border-bottom: 1px solid #333; }
+  .header h1 { font-size: 20px; font-weight: 600; margin-bottom: 12px; }
+
+  .stats-bar { display: flex; gap: 24px; flex-wrap: wrap; }
+  .stat { text-align: center; }
+  .stat-value { font-size: 28px; font-weight: 700; color: #fff; }
+  .stat-label { font-size: 11px; text-transform: uppercase; color: #888; letter-spacing: 0.5px; }
+
+  .controls { padding: 16px 24px; background: #141414; border-bottom: 1px solid #222; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .controls input, .controls select { padding: 8px 12px; border: 1px solid #333; border-radius: 6px; background: #1e1e1e; color: #e0e0e0; font-size: 14px; }
+  .controls input { flex: 1; min-width: 200px; }
+  .controls select { min-width: 140px; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; padding: 24px; }
+
+  .show-card { background: #1a1a1a; border-radius: 10px; border: 2px solid #333; overflow: hidden; transition: border-color 0.2s; }
+  .show-card.complete { border-color: #2d7a3a; }
+  .show-card.partial { border-color: #b8860b; }
+  .show-card.none { border-color: #8b2222; }
+  .show-card.no-wiki { border-color: #444; }
+
+  .card-header { padding: 14px 16px; display: flex; justify-content: space-between; align-items: flex-start; cursor: pointer; }
+  .card-header:hover { background: #222; }
+  .card-title { font-size: 15px; font-weight: 600; }
+  .card-meta { font-size: 12px; color: #888; margin-top: 4px; }
+  .card-badge { font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 600; white-space: nowrap; }
+  .badge-green { background: #1a3d1f; color: #4ade80; }
+  .badge-yellow { background: #3d3a1a; color: #fbbf24; }
+  .badge-red { background: #3d1a1a; color: #f87171; }
+  .badge-gray { background: #2a2a2a; color: #888; }
+
+  .card-chars { display: none; padding: 0 16px 16px; }
+  .card-chars.open { display: block; }
+
+  .char-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+  .char-item { text-align: center; width: 80px; }
+  .char-img { width: 64px; height: 64px; border-radius: 8px; object-fit: cover; background: #2a2a2a; display: block; margin: 0 auto 4px; }
+  .char-img.placeholder { display: flex; align-items: center; justify-content: center; color: #555; font-size: 24px; }
+  .char-name { font-size: 10px; color: #aaa; line-height: 1.2; word-break: break-word; }
+  .char-actor { font-size: 9px; color: #666; }
+
+  .card-actions { padding: 8px 16px 14px; display: flex; gap: 8px; }
+  .card-actions button, .card-actions a { font-size: 11px; padding: 4px 10px; border-radius: 4px; border: 1px solid #444; background: #222; color: #aaa; cursor: pointer; text-decoration: none; }
+  .card-actions button:hover, .card-actions a:hover { background: #333; color: #fff; }
+
+  .loading { text-align: center; padding: 60px; color: #666; font-size: 16px; }
+  .empty { text-align: center; padding: 40px; color: #555; }
+
+  .progress-bar { height: 4px; background: #222; border-radius: 2px; margin-top: 10px; overflow: hidden; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, #2d7a3a, #4ade80); transition: width 0.3s; }
+
+  .toast { position: fixed; bottom: 20px; right: 20px; background: #333; color: #fff; padding: 10px 16px; border-radius: 8px; font-size: 13px; opacity: 0; transition: opacity 0.3s; z-index: 100; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>VoiceCast Database Verification</h1>
+  <div class="stats-bar">
+    <div class="stat"><div class="stat-value" id="s-total">-</div><div class="stat-label">Shows</div></div>
+    <div class="stat"><div class="stat-value" id="s-with-img">-</div><div class="stat-label">With Images</div></div>
+    <div class="stat"><div class="stat-value" id="s-partial">-</div><div class="stat-label">Partial</div></div>
+    <div class="stat"><div class="stat-value" id="s-no-img">-</div><div class="stat-label">No Images</div></div>
+    <div class="stat"><div class="stat-value" id="s-no-wiki">-</div><div class="stat-label">No Wiki</div></div>
+    <div class="stat"><div class="stat-value" id="s-coverage">-</div><div class="stat-label">Image Coverage</div></div>
+  </div>
+  <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+</div>
+
+<div class="controls">
+  <input type="text" id="search" placeholder="Search shows...">
+  <select id="filter">
+    <option value="all">All</option>
+    <option value="complete">Complete (80%+)</option>
+    <option value="partial">Partial (1-79%)</option>
+    <option value="none">No Images</option>
+    <option value="no-wiki">No Wiki</option>
+  </select>
+  <select id="batch">
+    <option value="all">All Batches</option>
+  </select>
+</div>
+
+<div id="grid" class="grid">
+  <div class="loading">Loading data...</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+let allShows = [];
+let wikiMappings = {};
+
+async function loadData() {
+  try {
+    const [dbRes, wikiRes] = await Promise.all([
+      fetch('/api/database'),
+      fetch('/api/wiki-mappings').catch(() => ({ ok: false })),
+    ]);
+
+    const db = await dbRes.json();
+    allShows = db.shows || [];
+
+    if (wikiRes.ok) {
+      const wm = await wikiRes.json();
+      (wm.mappings || []).forEach(m => { wikiMappings[m.tmdb_id] = m; });
+    }
+
+    // Populate batch selector
+    const batchSelect = document.getElementById('batch');
+    const totalBatches = Math.ceil(allShows.length / 100);
+    for (let i = 1; i <= totalBatches; i++) {
+      const opt = document.createElement('option');
+      opt.value = String(i);
+      opt.textContent = `Batch ${i} (${(i-1)*100+1}-${Math.min(i*100, allShows.length)})`;
+      batchSelect.appendChild(opt);
+    }
+
+    updateStats();
+    render();
+  } catch (err) {
+    document.getElementById('grid').innerHTML = `<div class="loading">Error loading data: ${err.message}</div>`;
+  }
+}
+
+function getShowStatus(show) {
+  const chars = show.characters || [];
+  if (chars.length === 0) return 'no-wiki';
+  const withImg = chars.filter(c => c.character_image && c.character_image !== '' && !c.character_image_placeholder).length;
+  const wiki = wikiMappings[show.tmdb_id];
+  if (withImg === 0 && (!wiki || !wiki.wiki_slug)) return 'no-wiki';
+  if (withImg === 0) return 'none';
+  if (withImg / chars.length >= 0.8) return 'complete';
+  return 'partial';
+}
+
+function updateStats() {
+  let withImg = 0, partial = 0, noImg = 0, noWiki = 0;
+  let totalChars = 0, charsWithImg = 0;
+
+  allShows.forEach(show => {
+    const status = getShowStatus(show);
+    if (status === 'complete') withImg++;
+    else if (status === 'partial') partial++;
+    else if (status === 'none') noImg++;
+    else noWiki++;
+
+    const chars = show.characters || [];
+    totalChars += chars.length;
+    charsWithImg += chars.filter(c => c.character_image && c.character_image !== '' && !c.character_image_placeholder).length;
+  });
+
+  document.getElementById('s-total').textContent = allShows.length;
+  document.getElementById('s-with-img').textContent = withImg;
+  document.getElementById('s-partial').textContent = partial;
+  document.getElementById('s-no-img').textContent = noImg;
+  document.getElementById('s-no-wiki').textContent = noWiki;
+  document.getElementById('s-coverage').textContent = totalChars ? Math.round(charsWithImg / totalChars * 100) + '%' : '0%';
+  document.getElementById('progress').style.width = totalChars ? (charsWithImg / totalChars * 100) + '%' : '0%';
+}
+
+function render() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const filter = document.getElementById('filter').value;
+  const batch = document.getElementById('batch').value;
+
+  let shows = allShows;
+
+  // Batch filter
+  if (batch !== 'all') {
+    const b = parseInt(batch);
+    shows = shows.slice((b - 1) * 100, b * 100);
+  }
+
+  // Search filter
+  if (search) {
+    shows = shows.filter(s => s.title.toLowerCase().includes(search));
+  }
+
+  // Status filter
+  if (filter !== 'all') {
+    shows = shows.filter(s => getShowStatus(s) === filter);
+  }
+
+  const grid = document.getElementById('grid');
+
+  if (shows.length === 0) {
+    grid.innerHTML = '<div class="empty">No shows match your filters</div>';
+    return;
+  }
+
+  grid.innerHTML = shows.map((show, idx) => {
+    const chars = show.characters || [];
+    const withImg = chars.filter(c => c.character_image && c.character_image !== '' && !c.character_image_placeholder).length;
+    const status = getShowStatus(show);
+    const wiki = wikiMappings[show.tmdb_id];
+    const wikiSlug = wiki?.wiki_slug || '';
+
+    const badgeClass = { complete: 'badge-green', partial: 'badge-yellow', none: 'badge-red', 'no-wiki': 'badge-gray' }[status];
+    const badgeText = status === 'no-wiki' ? 'No Wiki' : `${withImg}/${chars.length}`;
+
+    const charHtml = chars.slice(0, 50).map(c => {
+      const hasImg = c.character_image && c.character_image !== '' && !c.character_image_placeholder;
+      const imgSrc = hasImg ? '/' + c.character_image : '';
+      return `<div class="char-item">
+        ${hasImg
+          ? `<img class="char-img" src="${imgSrc}" alt="${c.character_name}" loading="lazy">`
+          : `<div class="char-img placeholder">?</div>`
+        }
+        <div class="char-name">${c.character_name}</div>
+        <div class="char-actor">${c.voice_actor || ''}</div>
+      </div>`;
+    }).join('');
+
+    const globalIdx = allShows.indexOf(show);
+    const showBatch = Math.floor(globalIdx / 100) + 1;
+
+    return `<div class="show-card ${status}" data-idx="${idx}">
+      <div class="card-header" onclick="toggleChars(this)">
+        <div>
+          <div class="card-title">${show.title}</div>
+          <div class="card-meta">${chars.length} chars | Batch ${showBatch}${wikiSlug ? ` | ${wikiSlug}` : ''}</div>
+        </div>
+        <span class="card-badge ${badgeClass}">${badgeText}</span>
+      </div>
+      <div class="card-chars">${charHtml}</div>
+      <div class="card-actions" style="display:none">
+        <button onclick="copyCmd('${show.title.replace(/'/g, "\\'")}')">Copy re-fetch cmd</button>
+        ${wikiSlug ? `<a href="https://${wikiSlug}.fandom.com" target="_blank" rel="noopener">Open wiki</a>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function toggleChars(header) {
+  const card = header.closest('.show-card');
+  const chars = card.querySelector('.card-chars');
+  const actions = card.querySelector('.card-actions');
+  const isOpen = chars.classList.contains('open');
+  chars.classList.toggle('open');
+  actions.style.display = isOpen ? 'none' : 'flex';
+}
+
+function copyCmd(title) {
+  const cmd = `node scripts/pipeline/fetch-images.js --show "${title}"`;
+  navigator.clipboard.writeText(cmd).then(() => showToast('Command copied!'));
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+// Event listeners
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('filter').addEventListener('change', render);
+document.getElementById('batch').addEventListener('change', render);
+
+loadData();
+</script>
+</body>
+</html>

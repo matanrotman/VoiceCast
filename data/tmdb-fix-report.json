@@ -1,0 +1,1224 @@
+{
+  "generated_at": "2026-04-20T11:06:13.700Z",
+  "summary": {
+    "scanned": 942,
+    "flagged": 77,
+    "by_reason": {
+      "self_chars": 30,
+      "non_english": 7,
+      "low_char_count": 48,
+      "genre_mismatch": 0
+    }
+  },
+  "flagged": [
+    {
+      "title": "Fantasia",
+      "current_tmdb_id": 756,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 4,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Narrator - Narrative Introductions",
+        "Mickey Mouse (segment 'The Sorcerer's Apprentice')",
+        "Soloist (segment 'Ave Maria') (singing voice)",
+        "Self - Conductor of The Philadelphia Orchestra"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Peter Pan",
+      "current_tmdb_id": 11912,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 31,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "Comte Enguerand de Montignac,alias « Legrain »",
+        "Félicien Mézeray",
+        "Suzanne Mézeray",
+        "Maurice Pellot, entrepreneur"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Abominable",
+      "current_tmdb_id": 530393,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Himself"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Pirates Band of Misfits",
+      "current_tmdb_id": 68726,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 53,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Raleigh Becket",
+        "Mako Mori",
+        "Stacker Pentecost",
+        "Herc Hansen"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Flushed Away",
+      "current_tmdb_id": 13558,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Narrator",
+        "H.H. Holmes"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Waltz with Bashir",
+      "current_tmdb_id": 13516,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 27,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self",
+        "Self",
+        "Self - Narrator",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Breadwinner",
+      "current_tmdb_id": 404776,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Carlos",
+        "The Boss",
+        "Emilio"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Secret of Kells",
+      "current_tmdb_id": 22881,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 63,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Leigh Anne Tuohy",
+        "Sean Tuohy",
+        "Michael Oher",
+        "S.J. Tuohy"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Naruto Shippuden",
+      "current_tmdb_id": 1489,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2687,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Host",
+        "Self",
+        "Self - Guest Host",
+        "Self - Guest"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime",
+      "current_tmdb_id": 83829,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 81,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Moderator",
+        "Self",
+        "Self",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Promised Neverland",
+      "current_tmdb_id": 78160,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self - Host",
+        "Self - Mentor"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dorohedoro",
+      "current_tmdb_id": 95185,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self - Host"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Yogi Bear",
+      "current_tmdb_id": 44318,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Chizuru Yukimura",
+        "Toshizo Hijikata"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Popeye",
+      "current_tmdb_id": 16438,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 7,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "Carmen Teresa Rodríguez de Bernal",
+        "Miguel Ángel Bernal",
+        "Abelardo Fonseca",
+        "Miranda Kowalski"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Wacky Races",
+      "current_tmdb_id": 2322,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Doubting Dave"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Josie and the Pussycats",
+      "current_tmdb_id": 2323,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Girl",
+        "Guard"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Mighty Mouse",
+      "current_tmdb_id": 16569,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Detty Groggs"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Casper the Friendly Ghost",
+      "current_tmdb_id": 16439,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 9,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "María de los Ángeles Córdoba Vargas",
+        "Jorge De la Rosa / Jorge Basanta Salazar",
+        "Orquídea Córdoba Escalante",
+        "Radamés Basanta"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Rocky and Bullwinkle",
+      "current_tmdb_id": 2325,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Henry"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Speed Racer",
+      "current_tmdb_id": 30477,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Maxine Gaines"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Gigantor",
+      "current_tmdb_id": 30479,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Joe"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dungeons and Dragons",
+      "current_tmdb_id": 2326,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self - Host"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Zeta Project",
+      "current_tmdb_id": 2299,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 24,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Host",
+        "Self",
+        "Self",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "DuckTales",
+      "current_tmdb_id": 2311,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 18,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Various",
+        "Various",
+        "Various",
+        "Various"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Darkwing Duck",
+      "current_tmdb_id": 2317,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 552,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Earl Hickey",
+        "Randy Hickey",
+        "Joy Turner",
+        "Catalina Aruca"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Hamster and Gretel",
+      "current_tmdb_id": 2337,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 61,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Host",
+        "Self - Host",
+        "Self",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "OK KO Lets Be Heroes",
+      "current_tmdb_id": 2353,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Victoria Ratchford",
+        "Sparkles"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Craig of the Creek",
+      "current_tmdb_id": 2354,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 654,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Alf Stewart",
+        "Irene Roberts",
+        "Leah Patterson-Baker",
+        "John Palmer"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Teen Titans Go",
+      "current_tmdb_id": 2357,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 42,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Mark Deosdade",
+        "Jen MacMahon",
+        "Laurel Yeung",
+        "Chris Laidlaw"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Ben 10",
+      "current_tmdb_id": 2358,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "David Bryan",
+        "L.J Beckley"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Secret Saturdays",
+      "current_tmdb_id": 2360,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Ivan Carlisle",
+        "Smuggler"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Sym-Bionic Titan",
+      "current_tmdb_id": 2361,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Over the Garden Wall",
+      "current_tmdb_id": 62688,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 800,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Kara Danvers / Supergirl / Kara Zor-El",
+        "Alex Danvers / Sentinel",
+        "J'onn J'onzz / Martian Manhunter",
+        "Lena Luthor"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "She-Ra 2018",
+      "current_tmdb_id": 67151,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 102,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self",
+        "Self",
+        "Self",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Voltron Legendary Defender",
+      "current_tmdb_id": 62745,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 176,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "Wiene",
+        "Bell Cranel",
+        "Hestia",
+        "Liliruca Arde"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Hilda",
+      "current_tmdb_id": 73690,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "himself - narrateur"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Dragon Prince",
+      "current_tmdb_id": 75334,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self (archive footage)",
+        "Self (archive footage)"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dota Dragon's Blood",
+      "current_tmdb_id": 91393,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 7,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "松岡茉優",
+        "伊藤沙莉",
+        "斎藤工",
+        "工藤晴香"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Nimona",
+      "current_tmdb_id": 1073906,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Herself"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Ultimate Spider-Man",
+      "current_tmdb_id": 2243,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1181,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Monica",
+        "Tess",
+        "Andrew",
+        "Gloria"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Hulk and the Agents of SMASH",
+      "current_tmdb_id": 2244,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self - Host"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "DC Super Hero Girls",
+      "current_tmdb_id": 2252,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "King Konsei"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Spidey and His Amazing Friends",
+      "current_tmdb_id": 2261,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 1916,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Host",
+        "Self - Announcer",
+        "Self - Bandleader",
+        "Self - Bandleader"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Jujutsu Kaisen 0",
+      "current_tmdb_id": 839876,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 11,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "الوالي",
+        "الوزير أحمد",
+        "زوجة الوالي",
+        "كبير التجار"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Illusionist",
+      "current_tmdb_id": 70824,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Young Prince"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Angel Beats",
+      "current_tmdb_id": 186737,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Timon and Pumbaa",
+      "current_tmdb_id": 1085641,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Timon",
+        "Pumbaa"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Patrick Star Show",
+      "current_tmdb_id": 126824,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 29,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Patrick Star",
+        "Cecil Star",
+        "Bunny Star / Grandma Tentacles",
+        "Squidina Star"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dexter's Laboratory",
+      "current_tmdb_id": 221300,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Dexter",
+        "Dexter's Mom",
+        "Dee Dee"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "We Bare Bears",
+      "current_tmdb_id": 762126,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Panda",
+        "Grizzly",
+        "Ice Bear"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Scooby-Doo Mystery Incorporated",
+      "current_tmdb_id": 18123,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 101,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Scooby-Doo / Fred Jones",
+        "Daphne Blake",
+        "Velma Dinkley",
+        "Shaggy Rogers"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Human Resources",
+      "current_tmdb_id": 1081549,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Andy",
+        "Wanda",
+        "Caméraman"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Beavis and Butt-Head",
+      "current_tmdb_id": 1156258,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Beavis / Butt-Head (Mike Judge)"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Daria",
+      "current_tmdb_id": 1111035,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Daria Morgendorffer",
+        "Jane Lane"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Space Ghost Coast to Coast",
+      "current_tmdb_id": 2798,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 92,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Space Ghost",
+        "Zorak / Moltar",
+        "Brak",
+        "Birdman"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Yasuke",
+      "current_tmdb_id": 1602438,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Key Cast",
+        "Narrator"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Pluto",
+      "current_tmdb_id": 67163,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Mickey Mouse (uncredited)",
+        "Pluto (uncredited)"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Clifford the Big Red Dog",
+      "current_tmdb_id": 394687,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Clifford",
+        "Emily Elizabeth"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Arthur",
+      "current_tmdb_id": 946941,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Josh"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Hey Duggee",
+      "current_tmdb_id": 1322074,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Narrator"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Sarah and Duck",
+      "current_tmdb_id": 46866,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Sarah",
+        "Narrator"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Martin Mystery",
+      "current_tmdb_id": 1174373,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 4,
+      "reasons": [
+        "non_english"
+      ],
+      "sample_characters": [
+        "马丁",
+        "罗娜",
+        "年庆",
+        "郭莫"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Oggy and the Cockroaches",
+      "current_tmdb_id": 205048,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Oggy",
+        "Joey"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Paddington Bear",
+      "current_tmdb_id": 443087,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Narrator"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Moon Knight",
+      "current_tmdb_id": 964943,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 30,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Self - Executive Producer",
+        "Self - Executive Producer",
+        "Self - Executive Producer",
+        "Self - Director / Executive Producer"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "That Girl Lay Lay",
+      "current_tmdb_id": 1411708,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Sampil",
+        "Misheel"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Inazuma Eleven",
+      "current_tmdb_id": 312173,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Mamoru Endou",
+        "Shindou Takuto"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "current_tmdb_id": 1566920,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Maomao",
+        "Jinshi"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dandadan",
+      "current_tmdb_id": 1458844,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 7,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Ken 'Okarun' Takakura",
+        "Momo Ayase",
+        "Turbo Granny",
+        "Jin 'Jiji' Enjoji"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Dragon Ball Daima",
+      "current_tmdb_id": 1361184,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 37,
+      "reasons": [
+        "self_chars"
+      ],
+      "sample_characters": [
+        "Goku",
+        "Gohan",
+        "Goten / Gotenks",
+        "Bulma"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Rumiko Takahashi Anthology",
+      "current_tmdb_id": 45157,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Hazuki",
+        "Tonegawa, Ruriko",
+        "Kakei-san"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Paranoia Agent",
+      "current_tmdb_id": 1003919,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "self_chars",
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Self",
+        "Self",
+        "Self"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Voices of a Distant Star",
+      "current_tmdb_id": 37910,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Noboru Terao",
+        "Mikako Nagamine",
+        "Operator of the Lysithea"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "The Eminence in Shadow",
+      "current_tmdb_id": 1220552,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 1,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Cid Kagenou / Shadow"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Reborn as a Vending Machine",
+      "current_tmdb_id": 207564,
+      "current_tmdb_type": "tv",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Hakkon",
+        "Lammis"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Horimiya",
+      "current_tmdb_id": 816363,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 3,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "Izumi Miyamura",
+        "Kyoko Hori",
+        "Remi Ayasaki"
+      ],
+      "candidates": []
+    },
+    {
+      "title": "Masters of the Universe He-Man",
+      "current_tmdb_id": 1532156,
+      "current_tmdb_type": "movie",
+      "current_original_language": null,
+      "current_character_count": 2,
+      "reasons": [
+        "low_char_count"
+      ],
+      "sample_characters": [
+        "He-Man/ Prince Adam",
+        "Teela"
+      ],
+      "candidates": []
+    }
+  ]
+}

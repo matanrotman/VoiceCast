@@ -1,0 +1,12 @@
+{
+  "completed_shows": [
+    808,
+    2326,
+    16439
+  ],
+  "stats": {
+    "total_images": 5,
+    "total_failed": 0,
+    "shows_processed": 3
+  }
+}

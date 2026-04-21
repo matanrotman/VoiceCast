@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-04-18T20:41:45.761Z",
+  "total": 4,
+  "found": 4,
+  "not_found": 0,
+  "mappings": [
+    {
+      "title": "Shrek",
+      "tmdb_id": 808,
+      "tmdb_type": "movie",
+      "wiki_slug": "shrek",
+      "wiki_name": "WikiShrek",
+      "discovery_method": "slug_guess",
+      "confidence": "high",
+      "character_category_count": 10,
+      "verified": false
+    },
+    {
+      "title": "Avatar The Last Airbender",
+      "tmdb_id": 246,
+      "tmdb_type": "tv",
+      "wiki_slug": "avatarthelastairbender",
+      "wiki_name": "Avatar Wiki",
+      "discovery_method": "slug_guess",
+      "confidence": "high",
+      "character_category_count": 10,
+      "verified": false
+    },
+    {
+      "title": "Dungeons and Dragons",
+      "tmdb_id": 2326,
+      "tmdb_type": "tv",
+      "wiki_slug": "dungeonsanddragons",
+      "wiki_name": "Dungeons and Dragons Wiki",
+      "discovery_method": "slug_guess",
+      "confidence": "high",
+      "character_category_count": 10,
+      "verified": false
+    },
+    {
+      "title": "Casper the Friendly Ghost",
+      "tmdb_id": 16439,
+      "tmdb_type": "tv",
+      "wiki_slug": "casper",
+      "wiki_name": "Casper the Friendly Ghost Wiki",
+      "discovery_method": "slug_guess",
+      "confidence": "high",
+      "character_category_count": 10,
+      "verified": false
+    }
+  ]
+}
